@@ -1,0 +1,11 @@
+{
+  "product": "WinScope 11",
+  "version": "3.0.1",
+  "edition": "Safe Audit Minimal Distribution",
+  "active_modules": 500,
+  "audit_compatibility_modules": 300,
+  "native_modules": 200,
+  "report_only": true,
+  "production_source_files_reviewed": 507,
+  "build_validation": "PASS"
+}

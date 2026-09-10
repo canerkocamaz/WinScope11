@@ -1,0 +1,348 @@
+{
+  "Version": "1.0",
+  "Description": "User-facing hierarchy. Source descriptor GroupId values remain unchanged.",
+  "Mappings": [
+    {
+      "SourceGroupId": 1,
+      "MainGroupCode": "2",
+      "MainGroupName": "Storage & Data Protection",
+      "SubGroupCode": "2.1",
+      "SubGroupName": "Disk Usage & Health",
+      "LeafGroupCode": "2.1.1",
+      "LeafGroupName": "Disk Usage, Capacity & Storage Health"
+    },
+    {
+      "SourceGroupId": 2,
+      "MainGroupCode": "1",
+      "MainGroupName": "System, Servicing & Enterprise",
+      "SubGroupCode": "1.1",
+      "SubGroupName": "Windows Update & Servicing",
+      "LeafGroupCode": "1.1.1",
+      "LeafGroupName": "Windows Update & Servicing"
+    },
+    {
+      "SourceGroupId": 3,
+      "MainGroupCode": "1",
+      "MainGroupName": "System, Servicing & Enterprise",
+      "SubGroupCode": "1.2",
+      "SubGroupName": "Boot, Recovery & Firmware",
+      "LeafGroupCode": "1.2.1",
+      "LeafGroupName": "Boot & Recovery"
+    },
+    {
+      "SourceGroupId": 4,
+      "MainGroupCode": "1",
+      "MainGroupName": "System, Servicing & Enterprise",
+      "SubGroupCode": "1.3",
+      "SubGroupName": "Startup, Services & Tasks",
+      "LeafGroupCode": "1.3.1",
+      "LeafGroupName": "Startup & Shell"
+    },
+    {
+      "SourceGroupId": 5,
+      "MainGroupCode": "5",
+      "MainGroupName": "Applications, Runtime & Developer",
+      "SubGroupCode": "5.1",
+      "SubGroupName": "Applications & Caches",
+      "LeafGroupCode": "5.1.1",
+      "LeafGroupName": "Application Caches & Local Data"
+    },
+    {
+      "SourceGroupId": 6,
+      "MainGroupCode": "3",
+      "MainGroupName": "Network & Remote Access",
+      "SubGroupCode": "3.1",
+      "SubGroupName": "Connectivity & Adapters",
+      "LeafGroupCode": "3.1.1",
+      "LeafGroupName": "Wi-Fi, Adapters & Connectivity"
+    },
+    {
+      "SourceGroupId": 7,
+      "MainGroupCode": "4",
+      "MainGroupName": "Security, Identity & Trust",
+      "SubGroupCode": "4.1",
+      "SubGroupName": "Endpoint & Platform Security",
+      "LeafGroupCode": "4.1.1",
+      "LeafGroupName": "Windows Security Baseline"
+    },
+    {
+      "SourceGroupId": 8,
+      "MainGroupCode": "8",
+      "MainGroupName": "User Experience, Privacy & AI",
+      "SubGroupCode": "8.1",
+      "SubGroupName": "Privacy & Telemetry",
+      "LeafGroupCode": "8.1.1",
+      "LeafGroupName": "Privacy & Telemetry Basics"
+    },
+    {
+      "SourceGroupId": 9,
+      "MainGroupCode": "6",
+      "MainGroupName": "Hardware, Performance & Power",
+      "SubGroupCode": "6.1",
+      "SubGroupName": "Devices & Drivers",
+      "LeafGroupCode": "6.1.1",
+      "LeafGroupName": "Devices & Drivers"
+    },
+    {
+      "SourceGroupId": 10,
+      "MainGroupCode": "6",
+      "MainGroupName": "Hardware, Performance & Power",
+      "SubGroupCode": "6.2",
+      "SubGroupName": "Performance & Memory",
+      "LeafGroupCode": "6.2.1",
+      "LeafGroupName": "Performance, Memory & Search"
+    },
+    {
+      "SourceGroupId": 11,
+      "MainGroupCode": "6",
+      "MainGroupName": "Hardware, Performance & Power",
+      "SubGroupCode": "6.3",
+      "SubGroupName": "Power & Battery",
+      "LeafGroupCode": "6.3.1",
+      "LeafGroupName": "Power, Sleep & Battery"
+    },
+    {
+      "SourceGroupId": 12,
+      "MainGroupCode": "7",
+      "MainGroupName": "Diagnostics & Reliability",
+      "SubGroupCode": "7.1",
+      "SubGroupName": "Diagnostics & Reliability",
+      "LeafGroupCode": "7.1.1",
+      "LeafGroupName": "General Diagnostics & Reliability"
+    },
+    {
+      "SourceGroupId": 13,
+      "MainGroupCode": "4",
+      "MainGroupName": "Security, Identity & Trust",
+      "SubGroupCode": "4.2",
+      "SubGroupName": "Accounts, Identity & Credentials",
+      "LeafGroupCode": "4.2.1",
+      "LeafGroupName": "Local Accounts & Profiles"
+    },
+    {
+      "SourceGroupId": 14,
+      "MainGroupCode": "5",
+      "MainGroupName": "Applications, Runtime & Developer",
+      "SubGroupCode": "5.3",
+      "SubGroupName": "Developer & Virtualization",
+      "LeafGroupCode": "5.3.1",
+      "LeafGroupName": "Developer & Virtualization"
+    },
+    {
+      "SourceGroupId": 15,
+      "MainGroupCode": "2",
+      "MainGroupName": "Storage & Data Protection",
+      "SubGroupCode": "2.2",
+      "SubGroupName": "Storage & File-System Internals",
+      "LeafGroupCode": "2.2.1",
+      "LeafGroupName": "Storage Internals"
+    },
+    {
+      "SourceGroupId": 16,
+      "MainGroupCode": "3",
+      "MainGroupName": "Network & Remote Access",
+      "SubGroupCode": "3.2",
+      "SubGroupName": "TCP/IP, DNS & Protocols",
+      "LeafGroupCode": "3.2.1",
+      "LeafGroupName": "TCP/IP, DNS & Name Resolution"
+    },
+    {
+      "SourceGroupId": 17,
+      "MainGroupCode": "4",
+      "MainGroupName": "Security, Identity & Trust",
+      "SubGroupCode": "4.3",
+      "SubGroupName": "Security Policy & Audit",
+      "LeafGroupCode": "4.3.1",
+      "LeafGroupName": "Local Security Policy & Audit"
+    },
+    {
+      "SourceGroupId": 18,
+      "MainGroupCode": "7",
+      "MainGroupName": "Diagnostics & Reliability",
+      "SubGroupCode": "7.2",
+      "SubGroupName": "Event Channels & Logs",
+      "LeafGroupCode": "7.2.1",
+      "LeafGroupName": "System Event Channels"
+    },
+    {
+      "SourceGroupId": 19,
+      "MainGroupCode": "4",
+      "MainGroupName": "Security, Identity & Trust",
+      "SubGroupCode": "4.4",
+      "SubGroupName": "Certificates, TLS & Crypto",
+      "LeafGroupCode": "4.4.1",
+      "LeafGroupName": "Certificates & Trust Stores"
+    },
+    {
+      "SourceGroupId": 20,
+      "MainGroupCode": "4",
+      "MainGroupName": "Security, Identity & Trust",
+      "SubGroupCode": "4.1",
+      "SubGroupName": "Endpoint & Platform Security",
+      "LeafGroupCode": "4.1.2",
+      "LeafGroupName": "Microsoft Defender Advanced"
+    },
+    {
+      "SourceGroupId": 21,
+      "MainGroupCode": "4",
+      "MainGroupName": "Security, Identity & Trust",
+      "SubGroupCode": "4.1",
+      "SubGroupName": "Endpoint & Platform Security",
+      "LeafGroupCode": "4.1.3",
+      "LeafGroupName": "Device Security & Driver Integrity"
+    },
+    {
+      "SourceGroupId": 22,
+      "MainGroupCode": "1",
+      "MainGroupName": "System, Servicing & Enterprise",
+      "SubGroupCode": "1.4",
+      "SubGroupName": "Enterprise Policy & Management",
+      "LeafGroupCode": "1.4.1",
+      "LeafGroupName": "Group Policy & Enterprise Configuration"
+    },
+    {
+      "SourceGroupId": 23,
+      "MainGroupCode": "2",
+      "MainGroupName": "Storage & Data Protection",
+      "SubGroupCode": "2.3",
+      "SubGroupName": "Data Protection & Recovery",
+      "LeafGroupCode": "2.3.1",
+      "LeafGroupName": "File System & Data Protection"
+    },
+    {
+      "SourceGroupId": 24,
+      "MainGroupCode": "3",
+      "MainGroupName": "Network & Remote Access",
+      "SubGroupCode": "3.3",
+      "SubGroupName": "Firewall, IPsec & Remote Access",
+      "LeafGroupCode": "3.3.1",
+      "LeafGroupName": "Firewall, IPsec, WinRM & RDP"
+    },
+    {
+      "SourceGroupId": 25,
+      "MainGroupCode": "5",
+      "MainGroupName": "Applications, Runtime & Developer",
+      "SubGroupCode": "5.2",
+      "SubGroupName": "Windows Apps & Runtime",
+      "LeafGroupCode": "5.2.1",
+      "LeafGroupName": "Windows Apps & Runtime"
+    },
+    {
+      "SourceGroupId": 26,
+      "MainGroupCode": "1",
+      "MainGroupName": "System, Servicing & Enterprise",
+      "SubGroupCode": "1.3",
+      "SubGroupName": "Startup, Services & Tasks",
+      "LeafGroupCode": "1.3.2",
+      "LeafGroupName": "System Services & Management"
+    },
+    {
+      "SourceGroupId": 27,
+      "MainGroupCode": "8",
+      "MainGroupName": "User Experience, Privacy & AI",
+      "SubGroupCode": "8.2",
+      "SubGroupName": "User Experience Controls",
+      "LeafGroupCode": "8.2.1",
+      "LeafGroupName": "User Experience & Privacy Controls"
+    },
+    {
+      "SourceGroupId": 28,
+      "MainGroupCode": "6",
+      "MainGroupName": "Hardware, Performance & Power",
+      "SubGroupCode": "6.2",
+      "SubGroupName": "Performance & Memory",
+      "LeafGroupCode": "6.2.2",
+      "LeafGroupName": "Advanced Performance & System Snapshot"
+    },
+    {
+      "SourceGroupId": 29,
+      "MainGroupCode": "4",
+      "MainGroupName": "Security, Identity & Trust",
+      "SubGroupCode": "4.2",
+      "SubGroupName": "Accounts, Identity & Credentials",
+      "LeafGroupCode": "4.2.2",
+      "LeafGroupName": "Credentials & Authentication"
+    },
+    {
+      "SourceGroupId": 30,
+      "MainGroupCode": "4",
+      "MainGroupName": "Security, Identity & Trust",
+      "SubGroupCode": "4.4",
+      "SubGroupName": "Certificates, TLS & Crypto",
+      "LeafGroupCode": "4.4.2",
+      "LeafGroupName": "TLS, Schannel & Cryptography"
+    },
+    {
+      "SourceGroupId": 31,
+      "MainGroupCode": "1",
+      "MainGroupName": "System, Servicing & Enterprise",
+      "SubGroupCode": "1.1",
+      "SubGroupName": "Windows Update & Servicing",
+      "LeafGroupCode": "1.1.2",
+      "LeafGroupName": "Windows Update Deep Health"
+    },
+    {
+      "SourceGroupId": 32,
+      "MainGroupCode": "1",
+      "MainGroupName": "System, Servicing & Enterprise",
+      "SubGroupCode": "1.2",
+      "SubGroupName": "Boot, Recovery & Firmware",
+      "LeafGroupCode": "1.2.2",
+      "LeafGroupName": "UEFI, Firmware & Boot Security"
+    },
+    {
+      "SourceGroupId": 33,
+      "MainGroupCode": "2",
+      "MainGroupName": "Storage & Data Protection",
+      "SubGroupCode": "2.2",
+      "SubGroupName": "Storage & File-System Internals",
+      "LeafGroupCode": "2.2.2",
+      "LeafGroupName": "File-System Internals & Storage Reliability"
+    },
+    {
+      "SourceGroupId": 34,
+      "MainGroupCode": "4",
+      "MainGroupName": "Security, Identity & Trust",
+      "SubGroupCode": "4.1",
+      "SubGroupName": "Endpoint & Platform Security",
+      "LeafGroupCode": "4.1.4",
+      "LeafGroupName": "Application Control & Code Integrity"
+    },
+    {
+      "SourceGroupId": 35,
+      "MainGroupCode": "1",
+      "MainGroupName": "System, Servicing & Enterprise",
+      "SubGroupCode": "1.3",
+      "SubGroupName": "Startup, Services & Tasks",
+      "LeafGroupCode": "1.3.3",
+      "LeafGroupName": "Services & Scheduled Tasks Analysis"
+    },
+    {
+      "SourceGroupId": 36,
+      "MainGroupCode": "4",
+      "MainGroupName": "Security, Identity & Trust",
+      "SubGroupCode": "4.2",
+      "SubGroupName": "Accounts, Identity & Credentials",
+      "LeafGroupCode": "4.2.3",
+      "LeafGroupName": "Accounts, Rights & Enterprise Identity"
+    },
+    {
+      "SourceGroupId": 37,
+      "MainGroupCode": "7",
+      "MainGroupName": "Diagnostics & Reliability",
+      "SubGroupCode": "7.2",
+      "SubGroupName": "Event Channels & Logs",
+      "LeafGroupCode": "7.2.2",
+      "LeafGroupName": "Advanced Event Channels & Reliability"
+    },
+    {
+      "SourceGroupId": 38,
+      "MainGroupCode": "8",
+      "MainGroupName": "User Experience, Privacy & AI",
+      "SubGroupCode": "8.3",
+      "SubGroupName": "Windows UX, AI & Platform",
+      "LeafGroupCode": "8.3.1",
+      "LeafGroupName": "Windows UX, AI & Platform Features"
+    }
+  ]
+}

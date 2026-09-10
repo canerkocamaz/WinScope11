@@ -1,0 +1,3502 @@
+[
+  {
+    "Id": 3,
+    "Name": "File Explorer Recent Items",
+    "Group": "Disk & Storage",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/01-disk-storage/003-file-explorer-recent-items.ps1"
+  },
+  {
+    "Id": 4,
+    "Name": "Temporary Files",
+    "Group": "Disk & Storage",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/01-disk-storage/004-temporary-files.ps1"
+  },
+  {
+    "Id": 5,
+    "Name": "Windows Cache Usage",
+    "Group": "Disk & Storage",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/01-disk-storage/005-windows-cache-usage.ps1"
+  },
+  {
+    "Id": 18,
+    "Name": "Previous Windows Installation",
+    "Group": "Disk & Storage",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/01-disk-storage/018-previous-windows-installation.ps1"
+  },
+  {
+    "Id": 21,
+    "Name": "Large Files Analyzer",
+    "Group": "Disk & Storage",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/01-disk-storage/021-large-files-analyzer.ps1"
+  },
+  {
+    "Id": 22,
+    "Name": "Downloads Folder Cleanup",
+    "Group": "Disk & Storage",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/01-disk-storage/022-downloads-folder-cleanup.ps1"
+  },
+  {
+    "Id": 23,
+    "Name": "Recycle Bin Analyzer",
+    "Group": "Disk & Storage",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/01-disk-storage/023-recycle-bin-analyzer.ps1"
+  },
+  {
+    "Id": 31,
+    "Name": "Storage Sense Configuration",
+    "Group": "Disk & Storage",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/01-disk-storage/031-storage-sense-configuration.ps1"
+  },
+  {
+    "Id": 46,
+    "Name": "Volume Space and File System Health",
+    "Group": "Disk & Storage",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/01-disk-storage/046-volume-space-and-file-system-health.ps1"
+  },
+  {
+    "Id": 53,
+    "Name": "Windows Installer Cache Analyzer",
+    "Group": "Disk & Storage",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/01-disk-storage/053-windows-installer-cache-analyzer.ps1"
+  },
+  {
+    "Id": 75,
+    "Name": "Large Duplicate Files Analyzer",
+    "Group": "Disk & Storage",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/01-disk-storage/075-large-duplicate-files-analyzer.ps1"
+  },
+  {
+    "Id": 95,
+    "Name": "TRIM / Delete Notification Status",
+    "Group": "Disk & Storage",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/01-disk-storage/095-trim-delete-notification-status.ps1"
+  },
+  {
+    "Id": 9,
+    "Name": "Windows Optional Features",
+    "Group": "Windows Update & Servicing",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/02-windows-update-servicing/009-windows-optional-features.ps1"
+  },
+  {
+    "Id": 29,
+    "Name": "Component Store (WinSxS) Analyzer",
+    "Group": "Windows Update & Servicing",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/02-windows-update-servicing/029-component-store-winsxs-analyzer.ps1"
+  },
+  {
+    "Id": 32,
+    "Name": "Delivery Optimization Cache",
+    "Group": "Windows Update & Servicing",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/02-windows-update-servicing/032-delivery-optimization-cache.ps1"
+  },
+  {
+    "Id": 43,
+    "Name": "Windows Update Download Cache",
+    "Group": "Windows Update & Servicing",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/02-windows-update-servicing/043-windows-update-download-cache.ps1"
+  },
+  {
+    "Id": 44,
+    "Name": "Pending Reboot and Servicing State",
+    "Group": "Windows Update & Servicing",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/02-windows-update-servicing/044-pending-reboot-and-servicing-state.ps1"
+  },
+  {
+    "Id": 70,
+    "Name": "Reserved Storage Analyzer",
+    "Group": "Windows Update & Servicing",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/02-windows-update-servicing/070-reserved-storage-analyzer.ps1"
+  },
+  {
+    "Id": 71,
+    "Name": "Provisioned App Inventory",
+    "Group": "Windows Update & Servicing",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/02-windows-update-servicing/071-provisioned-app-inventory.ps1"
+  },
+  {
+    "Id": 89,
+    "Name": "DISM Component Health",
+    "Group": "Windows Update & Servicing",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/02-windows-update-servicing/089-dism-component-health.ps1"
+  },
+  {
+    "Id": 90,
+    "Name": "SFC VerifyOnly",
+    "Group": "Windows Update & Servicing",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/02-windows-update-servicing/090-sfc-verifyonly.ps1"
+  },
+  {
+    "Id": 91,
+    "Name": "Windows Update History",
+    "Group": "Windows Update & Servicing",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/02-windows-update-servicing/091-windows-update-history.ps1"
+  },
+  {
+    "Id": 117,
+    "Name": "Windows Update Policy",
+    "Group": "Windows Update & Servicing",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/02-windows-update-servicing/117-windows-update-policy.ps1"
+  },
+  {
+    "Id": 118,
+    "Name": "WSUS Configuration",
+    "Group": "Windows Update & Servicing",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/02-windows-update-servicing/118-wsus-configuration.ps1"
+  },
+  {
+    "Id": 119,
+    "Name": "BITS Service Health",
+    "Group": "Windows Update & Servicing",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/02-windows-update-servicing/119-bits-service-health.ps1"
+  },
+  {
+    "Id": 120,
+    "Name": "Windows Update Service Health",
+    "Group": "Windows Update & Servicing",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/02-windows-update-servicing/120-windows-update-service-health.ps1"
+  },
+  {
+    "Id": 121,
+    "Name": "Update Orchestrator Service Health",
+    "Group": "Windows Update & Servicing",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/02-windows-update-servicing/121-update-orchestrator-service-health.ps1"
+  },
+  {
+    "Id": 122,
+    "Name": "Windows Modules Installer Health",
+    "Group": "Windows Update & Servicing",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/02-windows-update-servicing/122-windows-modules-installer-health.ps1"
+  },
+  {
+    "Id": 123,
+    "Name": "Windows Update Medic Service Health",
+    "Group": "Windows Update & Servicing",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/02-windows-update-servicing/123-windows-update-medic-service-health.ps1"
+  },
+  {
+    "Id": 124,
+    "Name": "Delivery Optimization Configuration",
+    "Group": "Windows Update & Servicing",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/02-windows-update-servicing/124-delivery-optimization-configuration.ps1"
+  },
+  {
+    "Id": 125,
+    "Name": "Installed Windows Capabilities",
+    "Group": "Windows Update & Servicing",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/02-windows-update-servicing/125-installed-windows-capabilities.ps1"
+  },
+  {
+    "Id": 126,
+    "Name": "Language Pack Inventory",
+    "Group": "Windows Update & Servicing",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/02-windows-update-servicing/126-language-pack-inventory.ps1"
+  },
+  {
+    "Id": 127,
+    "Name": "Installed Update Inventory",
+    "Group": "Windows Update & Servicing",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/02-windows-update-servicing/127-installed-update-inventory.ps1"
+  },
+  {
+    "Id": 128,
+    "Name": "Failed Windows Update Event Summary",
+    "Group": "Windows Update & Servicing",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/02-windows-update-servicing/128-failed-windows-update-event-summary.ps1"
+  },
+  {
+    "Id": 129,
+    "Name": "Pending Servicing Files",
+    "Group": "Windows Update & Servicing",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/02-windows-update-servicing/129-pending-servicing-files.ps1"
+  },
+  {
+    "Id": 130,
+    "Name": "Optional Feature Payload State",
+    "Group": "Windows Update & Servicing",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/02-windows-update-servicing/130-optional-feature-payload-state.ps1"
+  },
+  {
+    "Id": 30,
+    "Name": "Restore Points and VSS Analyzer",
+    "Group": "Boot & Recovery",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/03-boot-recovery/030-restore-points-and-vss-analyzer.ps1"
+  },
+  {
+    "Id": 92,
+    "Name": "Windows Recovery Environment (WinRE)",
+    "Group": "Boot & Recovery",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/03-boot-recovery/092-windows-recovery-environment-winre.ps1"
+  },
+  {
+    "Id": 93,
+    "Name": "BCD Configuration Analyzer",
+    "Group": "Boot & Recovery",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/03-boot-recovery/093-bcd-configuration-analyzer.ps1"
+  },
+  {
+    "Id": 131,
+    "Name": "Recovery Partition Inventory",
+    "Group": "Boot & Recovery",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/03-boot-recovery/131-recovery-partition-inventory.ps1"
+  },
+  {
+    "Id": 132,
+    "Name": "Recovery Volume Capacity",
+    "Group": "Boot & Recovery",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/03-boot-recovery/132-recovery-volume-capacity.ps1"
+  },
+  {
+    "Id": 133,
+    "Name": "Boot Manager Timeout",
+    "Group": "Boot & Recovery",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/03-boot-recovery/133-boot-manager-timeout.ps1"
+  },
+  {
+    "Id": 134,
+    "Name": "BCD Boot Entry Inventory",
+    "Group": "Boot & Recovery",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/03-boot-recovery/134-bcd-boot-entry-inventory.ps1"
+  },
+  {
+    "Id": 135,
+    "Name": "SafeBoot Configuration",
+    "Group": "Boot & Recovery",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/03-boot-recovery/135-safeboot-configuration.ps1"
+  },
+  {
+    "Id": 136,
+    "Name": "Boot Logging State",
+    "Group": "Boot & Recovery",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/03-boot-recovery/136-boot-logging-state.ps1"
+  },
+  {
+    "Id": 137,
+    "Name": "Task Manager StartupApproved Inventory",
+    "Group": "Boot & Recovery",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/03-boot-recovery/137-task-manager-startupapproved-inventory.ps1"
+  },
+  {
+    "Id": 138,
+    "Name": "Crash Dump Boot Configuration",
+    "Group": "Boot & Recovery",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/03-boot-recovery/138-crash-dump-boot-configuration.ps1"
+  },
+  {
+    "Id": 139,
+    "Name": "Automatic Memory Dump Policy",
+    "Group": "Boot & Recovery",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/03-boot-recovery/139-automatic-memory-dump-policy.ps1"
+  },
+  {
+    "Id": 140,
+    "Name": "Shutdown and Unexpected Restart Summary",
+    "Group": "Boot & Recovery",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/03-boot-recovery/140-shutdown-and-unexpected-restart-summary.ps1"
+  },
+  {
+    "Id": 1,
+    "Name": "Startup Registry Orphans",
+    "Group": "Startup & Shell",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/04-startup-shell/001-startup-registry-orphans.ps1"
+  },
+  {
+    "Id": 2,
+    "Name": "Context Menu Orphans",
+    "Group": "Startup & Shell",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/04-startup-shell/002-context-menu-orphans.ps1"
+  },
+  {
+    "Id": 13,
+    "Name": "Failed Scheduled Tasks",
+    "Group": "Startup & Shell",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/04-startup-shell/013-failed-scheduled-tasks.ps1"
+  },
+  {
+    "Id": 14,
+    "Name": "Service Review",
+    "Group": "Startup & Shell",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/04-startup-shell/014-service-review.ps1"
+  },
+  {
+    "Id": 15,
+    "Name": "Invalid CLSID / COM Registrations",
+    "Group": "Startup & Shell",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/04-startup-shell/015-invalid-clsid-com-registrations.ps1"
+  },
+  {
+    "Id": 27,
+    "Name": "Startup Folder Analyzer",
+    "Group": "Startup & Shell",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/04-startup-shell/027-startup-folder-analyzer.ps1"
+  },
+  {
+    "Id": 37,
+    "Name": "Broken Shortcuts",
+    "Group": "Startup & Shell",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/04-startup-shell/037-broken-shortcuts.ps1"
+  },
+  {
+    "Id": 48,
+    "Name": "PATH Integrity Analyzer",
+    "Group": "Startup & Shell",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/04-startup-shell/048-path-integrity-analyzer.ps1"
+  },
+  {
+    "Id": 68,
+    "Name": "Scheduled Task Orphan Actions",
+    "Group": "Startup & Shell",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/04-startup-shell/068-scheduled-task-orphan-actions.ps1"
+  },
+  {
+    "Id": 69,
+    "Name": "Orphaned Windows Services",
+    "Group": "Startup & Shell",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/04-startup-shell/069-orphaned-windows-services.ps1"
+  },
+  {
+    "Id": 16,
+    "Name": ".NET Framework Inventory",
+    "Group": "Applications & Caches",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/05-applications-caches/016-net-framework-inventory.ps1"
+  },
+  {
+    "Id": 17,
+    "Name": "Appx Package Health",
+    "Group": "Applications & Caches",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/05-applications-caches/017-appx-package-health.ps1"
+  },
+  {
+    "Id": 26,
+    "Name": "Browser Cache Analyzer",
+    "Group": "Applications & Caches",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/05-applications-caches/026-browser-cache-analyzer.ps1"
+  },
+  {
+    "Id": 34,
+    "Name": "OneDrive Local Storage",
+    "Group": "Applications & Caches",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/05-applications-caches/034-onedrive-local-storage.ps1"
+  },
+  {
+    "Id": 35,
+    "Name": "Microsoft Office Document Cache",
+    "Group": "Applications & Caches",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/05-applications-caches/035-microsoft-office-document-cache.ps1"
+  },
+  {
+    "Id": 36,
+    "Name": "Microsoft Store Cache",
+    "Group": "Applications & Caches",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/05-applications-caches/036-microsoft-store-cache.ps1"
+  },
+  {
+    "Id": 51,
+    "Name": "Xbox Game Bar and Capture Storage",
+    "Group": "Applications & Caches",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/05-applications-caches/051-xbox-game-bar-and-capture-storage.ps1"
+  },
+  {
+    "Id": 63,
+    "Name": "Outlook OST/PST Analyzer",
+    "Group": "Applications & Caches",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/05-applications-caches/063-outlook-ost-pst-analyzer.ps1"
+  },
+  {
+    "Id": 64,
+    "Name": "Microsoft Teams Cache Analyzer",
+    "Group": "Applications & Caches",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/05-applications-caches/064-microsoft-teams-cache-analyzer.ps1"
+  },
+  {
+    "Id": 65,
+    "Name": "Browser Profile Analyzer",
+    "Group": "Applications & Caches",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/05-applications-caches/065-browser-profile-analyzer.ps1"
+  },
+  {
+    "Id": 73,
+    "Name": "Icon & Thumbnail Database Cache",
+    "Group": "Applications & Caches",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/05-applications-caches/073-icon-thumbnail-database-cache.ps1"
+  },
+  {
+    "Id": 10,
+    "Name": "Saved Wi-Fi Profiles",
+    "Group": "Network & Connectivity",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/06-network-connectivity/010-saved-wi-fi-profiles.ps1"
+  },
+  {
+    "Id": 20,
+    "Name": "Hosts File and DNS Cache",
+    "Group": "Network & Connectivity",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/06-network-connectivity/020-hosts-file-and-dns-cache.ps1"
+  },
+  {
+    "Id": 28,
+    "Name": "VPN and Proxy Analyzer",
+    "Group": "Network & Connectivity",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/06-network-connectivity/028-vpn-and-proxy-analyzer.ps1"
+  },
+  {
+    "Id": 38,
+    "Name": "Persistent / Static Routes",
+    "Group": "Network & Connectivity",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/06-network-connectivity/038-persistent-static-routes.ps1"
+  },
+  {
+    "Id": 39,
+    "Name": "Network Adapter Inventory",
+    "Group": "Network & Connectivity",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/06-network-connectivity/039-network-adapter-inventory.ps1"
+  },
+  {
+    "Id": 49,
+    "Name": "Mapped Network Drives",
+    "Group": "Network & Connectivity",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/06-network-connectivity/049-mapped-network-drives.ps1"
+  },
+  {
+    "Id": 50,
+    "Name": "SMB Shares Inventory",
+    "Group": "Network & Connectivity",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/06-network-connectivity/050-smb-shares-inventory.ps1"
+  },
+  {
+    "Id": 60,
+    "Name": "Time Synchronization / NTP Health",
+    "Group": "Network & Connectivity",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/06-network-connectivity/060-time-synchronization-ntp-health.ps1"
+  },
+  {
+    "Id": 76,
+    "Name": "Network Adapter Hygiene",
+    "Group": "Network & Connectivity",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/06-network-connectivity/076-network-adapter-hygiene.ps1"
+  },
+  {
+    "Id": 12,
+    "Name": "Defender Exclusion Orphans",
+    "Group": "Windows Security",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/07-windows-security/012-defender-exclusion-orphans.ps1"
+  },
+  {
+    "Id": 56,
+    "Name": "BitLocker and Device Encryption Status",
+    "Group": "Windows Security",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/07-windows-security/056-bitlocker-and-device-encryption-status.ps1"
+  },
+  {
+    "Id": 57,
+    "Name": "Windows Firewall Profile Health",
+    "Group": "Windows Security",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/07-windows-security/057-windows-firewall-profile-health.ps1"
+  },
+  {
+    "Id": 58,
+    "Name": "Orphaned Firewall Application Rules",
+    "Group": "Windows Security",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/07-windows-security/058-orphaned-firewall-application-rules.ps1"
+  },
+  {
+    "Id": 59,
+    "Name": "Microsoft Defender Health",
+    "Group": "Windows Security",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/07-windows-security/059-microsoft-defender-health.ps1"
+  },
+  {
+    "Id": 77,
+    "Name": "Secure Boot Status",
+    "Group": "Windows Security",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/07-windows-security/077-secure-boot-status.ps1"
+  },
+  {
+    "Id": 78,
+    "Name": "TPM 2.0 Status",
+    "Group": "Windows Security",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/07-windows-security/078-tpm-2-0-status.ps1"
+  },
+  {
+    "Id": 79,
+    "Name": "Virtualization-Based Security (VBS)",
+    "Group": "Windows Security",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/07-windows-security/079-virtualization-based-security-vbs.ps1"
+  },
+  {
+    "Id": 80,
+    "Name": "Memory Integrity / HVCI",
+    "Group": "Windows Security",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/07-windows-security/080-memory-integrity-hvci.ps1"
+  },
+  {
+    "Id": 81,
+    "Name": "Credential Guard",
+    "Group": "Windows Security",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/07-windows-security/081-credential-guard.ps1"
+  },
+  {
+    "Id": 82,
+    "Name": "LSA Protection",
+    "Group": "Windows Security",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/07-windows-security/082-lsa-protection.ps1"
+  },
+  {
+    "Id": 83,
+    "Name": "Microsoft Defender SmartScreen",
+    "Group": "Windows Security",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/07-windows-security/083-microsoft-defender-smartscreen.ps1"
+  },
+  {
+    "Id": 84,
+    "Name": "Attack Surface Reduction (ASR) Rules",
+    "Group": "Windows Security",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/07-windows-security/084-attack-surface-reduction-asr-rules.ps1"
+  },
+  {
+    "Id": 85,
+    "Name": "Controlled Folder Access",
+    "Group": "Windows Security",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/07-windows-security/085-controlled-folder-access.ps1"
+  },
+  {
+    "Id": 86,
+    "Name": "Remote Desktop / NLA",
+    "Group": "Windows Security",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/07-windows-security/086-remote-desktop-nla.ps1"
+  },
+  {
+    "Id": 87,
+    "Name": "WinRM / PowerShell Remoting",
+    "Group": "Windows Security",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/07-windows-security/087-winrm-powershell-remoting.ps1"
+  },
+  {
+    "Id": 88,
+    "Name": "SMB1 and SMB Signing",
+    "Group": "Windows Security",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/07-windows-security/088-smb1-and-smb-signing.ps1"
+  },
+  {
+    "Id": 41,
+    "Name": "Advertising ID and Diagnostic Data",
+    "Group": "Privacy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/08-privacy/041-advertising-id-and-diagnostic-data.ps1"
+  },
+  {
+    "Id": 42,
+    "Name": "Clipboard and Activity History",
+    "Group": "Privacy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/08-privacy/042-clipboard-and-activity-history.ps1"
+  },
+  {
+    "Id": 74,
+    "Name": "Telemetry & Diagnostic Log Storage",
+    "Group": "Privacy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/08-privacy/074-telemetry-diagnostic-log-storage.ps1"
+  },
+  {
+    "Id": 8,
+    "Name": "DriverStore / OEM Drivers",
+    "Group": "Devices & Drivers",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/09-devices-drivers/008-driverstore-oem-drivers.ps1"
+  },
+  {
+    "Id": 11,
+    "Name": "Bluetooth Device Inventory",
+    "Group": "Devices & Drivers",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/09-devices-drivers/011-bluetooth-device-inventory.ps1"
+  },
+  {
+    "Id": 40,
+    "Name": "Print Queue and Spooler",
+    "Group": "Devices & Drivers",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/09-devices-drivers/040-print-queue-and-spooler.ps1"
+  },
+  {
+    "Id": 67,
+    "Name": "Ghost USB / Storage Device Inventory",
+    "Group": "Devices & Drivers",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/09-devices-drivers/067-ghost-usb-storage-device-inventory.ps1"
+  },
+  {
+    "Id": 96,
+    "Name": "Physical Disk Health",
+    "Group": "Devices & Drivers",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/09-devices-drivers/096-physical-disk-health.ps1"
+  },
+  {
+    "Id": 7,
+    "Name": "Pagefile Size and Usage",
+    "Group": "Performance & Memory",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/10-performance-memory/007-pagefile-size-and-usage.ps1"
+  },
+  {
+    "Id": 33,
+    "Name": "Windows Search Index",
+    "Group": "Performance & Memory",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/10-performance-memory/033-windows-search-index.ps1"
+  },
+  {
+    "Id": 6,
+    "Name": "Hibernation / hiberfil.sys",
+    "Group": "Power & Sleep",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/11-power-sleep/006-hibernation-hiberfil-sys.ps1"
+  },
+  {
+    "Id": 47,
+    "Name": "Power Plan and Sleep Configuration",
+    "Group": "Power & Sleep",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/11-power-sleep/047-power-plan-and-sleep-configuration.ps1"
+  },
+  {
+    "Id": 55,
+    "Name": "Battery Health and Capacity Analyzer",
+    "Group": "Power & Sleep",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/11-power-sleep/055-battery-health-and-capacity-analyzer.ps1"
+  },
+  {
+    "Id": 99,
+    "Name": "Modern Standby Support",
+    "Group": "Power & Sleep",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/11-power-sleep/099-modern-standby-support.ps1"
+  },
+  {
+    "Id": 100,
+    "Name": "Power Requests",
+    "Group": "Power & Sleep",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/11-power-sleep/100-power-requests.ps1"
+  },
+  {
+    "Id": 19,
+    "Name": "Large Event Logs",
+    "Group": "Diagnostics & Reliability",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/12-diagnostics-reliability/019-large-event-logs.ps1"
+  },
+  {
+    "Id": 24,
+    "Name": "Crash Dump Analyzer",
+    "Group": "Diagnostics & Reliability",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/12-diagnostics-reliability/024-crash-dump-analyzer.ps1"
+  },
+  {
+    "Id": 25,
+    "Name": "Windows Error Reporting",
+    "Group": "Diagnostics & Reliability",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/12-diagnostics-reliability/025-windows-error-reporting.ps1"
+  },
+  {
+    "Id": 45,
+    "Name": "Windows Maintenance Logs",
+    "Group": "Diagnostics & Reliability",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/12-diagnostics-reliability/045-windows-maintenance-logs.ps1"
+  },
+  {
+    "Id": 94,
+    "Name": "Boot Performance Analyzer",
+    "Group": "Diagnostics & Reliability",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/12-diagnostics-reliability/094-boot-performance-analyzer.ps1"
+  },
+  {
+    "Id": 97,
+    "Name": "WHEA Hardware Error Analyzer",
+    "Group": "Diagnostics & Reliability",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/12-diagnostics-reliability/097-whea-hardware-error-analyzer.ps1"
+  },
+  {
+    "Id": 98,
+    "Name": "Reliability Monitor Analyzer",
+    "Group": "Diagnostics & Reliability",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/12-diagnostics-reliability/098-reliability-monitor-analyzer.ps1"
+  },
+  {
+    "Id": 54,
+    "Name": "User Profile Inventory",
+    "Group": "Accounts & Access",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/13-accounts-access/054-user-profile-inventory.ps1"
+  },
+  {
+    "Id": 72,
+    "Name": "Local Account Hygiene",
+    "Group": "Accounts & Access",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/13-accounts-access/072-local-account-hygiene.ps1"
+  },
+  {
+    "Id": 52,
+    "Name": "PowerShell Module Footprint",
+    "Group": "Developer & Virtualization",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/14-developer-virtualization/052-powershell-module-footprint.ps1"
+  },
+  {
+    "Id": 61,
+    "Name": "WSL Distribution and VHDX Footprint",
+    "Group": "Developer & Virtualization",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/14-developer-virtualization/061-wsl-distribution-and-vhdx-footprint.ps1"
+  },
+  {
+    "Id": 62,
+    "Name": "Hyper-V Virtual Disk Footprint",
+    "Group": "Developer & Virtualization",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/14-developer-virtualization/062-hyper-v-virtual-disk-footprint.ps1"
+  },
+  {
+    "Id": 66,
+    "Name": "Environment Variable Integrity",
+    "Group": "Developer & Virtualization",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/14-developer-virtualization/066-environment-variable-integrity.ps1"
+  },
+  {
+    "Id": 101,
+    "Name": "NTFS Dirty Bit Status",
+    "Group": "Storage Internals",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/15-storage-internals/101-ntfs-dirty-bit-status.ps1"
+  },
+  {
+    "Id": 102,
+    "Name": "NTFS Compression State",
+    "Group": "Storage Internals",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/15-storage-internals/102-ntfs-compression-state.ps1"
+  },
+  {
+    "Id": 103,
+    "Name": "NTFS Reparse Point Inventory",
+    "Group": "Storage Internals",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/15-storage-internals/103-ntfs-reparse-point-inventory.ps1"
+  },
+  {
+    "Id": 104,
+    "Name": "Volume Mount Points",
+    "Group": "Storage Internals",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/15-storage-internals/104-volume-mount-points.ps1"
+  },
+  {
+    "Id": 105,
+    "Name": "Disk Quota Configuration",
+    "Group": "Storage Internals",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/15-storage-internals/105-disk-quota-configuration.ps1"
+  },
+  {
+    "Id": 106,
+    "Name": "Storage Spaces Pool Health",
+    "Group": "Storage Internals",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/15-storage-internals/106-storage-spaces-pool-health.ps1"
+  },
+  {
+    "Id": 107,
+    "Name": "Storage Spaces Virtual Disks",
+    "Group": "Storage Internals",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/15-storage-internals/107-storage-spaces-virtual-disks.ps1"
+  },
+  {
+    "Id": 108,
+    "Name": "Storage Spaces Physical Disks",
+    "Group": "Storage Internals",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/15-storage-internals/108-storage-spaces-physical-disks.ps1"
+  },
+  {
+    "Id": 109,
+    "Name": "Shadow Copy Providers",
+    "Group": "Storage Internals",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/15-storage-internals/109-shadow-copy-providers.ps1"
+  },
+  {
+    "Id": 110,
+    "Name": "Shadow Copy Inventory",
+    "Group": "Storage Internals",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/15-storage-internals/110-shadow-copy-inventory.ps1"
+  },
+  {
+    "Id": 111,
+    "Name": "Encrypting File System (EFS) State",
+    "Group": "Storage Internals",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/15-storage-internals/111-encrypting-file-system-efs-state.ps1"
+  },
+  {
+    "Id": 112,
+    "Name": "CompactOS State",
+    "Group": "Storage Internals",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/15-storage-internals/112-compactos-state.ps1"
+  },
+  {
+    "Id": 113,
+    "Name": "USN Journal Status",
+    "Group": "Storage Internals",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/15-storage-internals/113-usn-journal-status.ps1"
+  },
+  {
+    "Id": 114,
+    "Name": "ReFS Volume Inventory",
+    "Group": "Storage Internals",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/15-storage-internals/114-refs-volume-inventory.ps1"
+  },
+  {
+    "Id": 115,
+    "Name": "Data Deduplication Feature Status",
+    "Group": "Storage Internals",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/15-storage-internals/115-data-deduplication-feature-status.ps1"
+  },
+  {
+    "Id": 116,
+    "Name": "Offline Files / CSC Status",
+    "Group": "Storage Internals",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/15-storage-internals/116-offline-files-csc-status.ps1"
+  },
+  {
+    "Id": 141,
+    "Name": "DNS Server Configuration",
+    "Group": "Network Configuration & Protocols",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/16-network-configuration-protocols/141-dns-server-configuration.ps1"
+  },
+  {
+    "Id": 142,
+    "Name": "DNS-over-HTTPS Configuration",
+    "Group": "Network Configuration & Protocols",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/16-network-configuration-protocols/142-dns-over-https-configuration.ps1"
+  },
+  {
+    "Id": 143,
+    "Name": "Network Profile Categories",
+    "Group": "Network Configuration & Protocols",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/16-network-configuration-protocols/143-network-profile-categories.ps1"
+  },
+  {
+    "Id": 144,
+    "Name": "IPv6 Binding Status",
+    "Group": "Network Configuration & Protocols",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/16-network-configuration-protocols/144-ipv6-binding-status.ps1"
+  },
+  {
+    "Id": 145,
+    "Name": "Interface Metric Analyzer",
+    "Group": "Network Configuration & Protocols",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/16-network-configuration-protocols/145-interface-metric-analyzer.ps1"
+  },
+  {
+    "Id": 146,
+    "Name": "DHCP vs Static IP Inventory",
+    "Group": "Network Configuration & Protocols",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/16-network-configuration-protocols/146-dhcp-vs-static-ip-inventory.ps1"
+  },
+  {
+    "Id": 147,
+    "Name": "NRPT Rules",
+    "Group": "Network Configuration & Protocols",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/16-network-configuration-protocols/147-nrpt-rules.ps1"
+  },
+  {
+    "Id": 148,
+    "Name": "TCP Global Settings",
+    "Group": "Network Configuration & Protocols",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/16-network-configuration-protocols/148-tcp-global-settings.ps1"
+  },
+  {
+    "Id": 149,
+    "Name": "TCP Auto-Tuning State",
+    "Group": "Network Configuration & Protocols",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/16-network-configuration-protocols/149-tcp-auto-tuning-state.ps1"
+  },
+  {
+    "Id": 150,
+    "Name": "PortProxy Rules",
+    "Group": "Network Configuration & Protocols",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/16-network-configuration-protocols/150-portproxy-rules.ps1"
+  },
+  {
+    "Id": 151,
+    "Name": "Listening TCP Ports",
+    "Group": "Network Configuration & Protocols",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/16-network-configuration-protocols/151-listening-tcp-ports.ps1"
+  },
+  {
+    "Id": 152,
+    "Name": "Listening UDP Endpoints",
+    "Group": "Network Configuration & Protocols",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/16-network-configuration-protocols/152-listening-udp-endpoints.ps1"
+  },
+  {
+    "Id": 153,
+    "Name": "SMB Client Configuration",
+    "Group": "Network Configuration & Protocols",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/16-network-configuration-protocols/153-smb-client-configuration.ps1"
+  },
+  {
+    "Id": 154,
+    "Name": "SMB Server Configuration",
+    "Group": "Network Configuration & Protocols",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/16-network-configuration-protocols/154-smb-server-configuration.ps1"
+  },
+  {
+    "Id": 155,
+    "Name": "LLMNR Policy",
+    "Group": "Network Configuration & Protocols",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/16-network-configuration-protocols/155-llmnr-policy.ps1"
+  },
+  {
+    "Id": 156,
+    "Name": "NetBIOS over TCP/IP State",
+    "Group": "Network Configuration & Protocols",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/16-network-configuration-protocols/156-netbios-over-tcp-ip-state.ps1"
+  },
+  {
+    "Id": 157,
+    "Name": "Internet Connection Sharing Status",
+    "Group": "Network Configuration & Protocols",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/16-network-configuration-protocols/157-internet-connection-sharing-status.ps1"
+  },
+  {
+    "Id": 158,
+    "Name": "Mobile Hotspot Service Status",
+    "Group": "Network Configuration & Protocols",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/16-network-configuration-protocols/158-mobile-hotspot-service-status.ps1"
+  },
+  {
+    "Id": 159,
+    "Name": "Network Location Awareness Health",
+    "Group": "Network Configuration & Protocols",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/16-network-configuration-protocols/159-network-location-awareness-health.ps1"
+  },
+  {
+    "Id": 160,
+    "Name": "Windows Connection Manager Policy",
+    "Group": "Network Configuration & Protocols",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/16-network-configuration-protocols/160-windows-connection-manager-policy.ps1"
+  },
+  {
+    "Id": 161,
+    "Name": "User Account Control (UAC) Configuration",
+    "Group": "Identity & Security Policy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/17-identity-security-policy/161-user-account-control-uac-configuration.ps1"
+  },
+  {
+    "Id": 162,
+    "Name": "Windows Hello Policy",
+    "Group": "Identity & Security Policy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/17-identity-security-policy/162-windows-hello-policy.ps1"
+  },
+  {
+    "Id": 163,
+    "Name": "Local Password Policy",
+    "Group": "Identity & Security Policy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/17-identity-security-policy/163-local-password-policy.ps1"
+  },
+  {
+    "Id": 164,
+    "Name": "Account Lockout Policy",
+    "Group": "Identity & Security Policy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/17-identity-security-policy/164-account-lockout-policy.ps1"
+  },
+  {
+    "Id": 165,
+    "Name": "Built-in Guest Account Status",
+    "Group": "Identity & Security Policy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/17-identity-security-policy/165-built-in-guest-account-status.ps1"
+  },
+  {
+    "Id": 166,
+    "Name": "Built-in Administrator Account Status",
+    "Group": "Identity & Security Policy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/17-identity-security-policy/166-built-in-administrator-account-status.ps1"
+  },
+  {
+    "Id": 167,
+    "Name": "AutoLogon Configuration",
+    "Group": "Identity & Security Policy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/17-identity-security-policy/167-autologon-configuration.ps1"
+  },
+  {
+    "Id": 168,
+    "Name": "Cached Interactive Logons Policy",
+    "Group": "Identity & Security Policy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/17-identity-security-policy/168-cached-interactive-logons-policy.ps1"
+  },
+  {
+    "Id": 169,
+    "Name": "Advanced Audit Policy Summary",
+    "Group": "Identity & Security Policy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/17-identity-security-policy/169-advanced-audit-policy-summary.ps1"
+  },
+  {
+    "Id": 170,
+    "Name": "PowerShell Script Block Logging",
+    "Group": "Identity & Security Policy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/17-identity-security-policy/170-powershell-script-block-logging.ps1"
+  },
+  {
+    "Id": 171,
+    "Name": "PowerShell Transcription Logging",
+    "Group": "Identity & Security Policy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/17-identity-security-policy/171-powershell-transcription-logging.ps1"
+  },
+  {
+    "Id": 172,
+    "Name": "PowerShell Module Logging",
+    "Group": "Identity & Security Policy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/17-identity-security-policy/172-powershell-module-logging.ps1"
+  },
+  {
+    "Id": 173,
+    "Name": "AppLocker Policy Status",
+    "Group": "Identity & Security Policy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/17-identity-security-policy/173-applocker-policy-status.ps1"
+  },
+  {
+    "Id": 174,
+    "Name": "WDAC / Code Integrity Policy State",
+    "Group": "Identity & Security Policy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/17-identity-security-policy/174-wdac-code-integrity-policy-state.ps1"
+  },
+  {
+    "Id": 175,
+    "Name": "Windows Sandbox Feature",
+    "Group": "Identity & Security Policy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/17-identity-security-policy/175-windows-sandbox-feature.ps1"
+  },
+  {
+    "Id": 176,
+    "Name": "Microsoft Defender Application Guard",
+    "Group": "Identity & Security Policy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/17-identity-security-policy/176-microsoft-defender-application-guard.ps1"
+  },
+  {
+    "Id": 177,
+    "Name": "Remote Assistance Status",
+    "Group": "Identity & Security Policy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/17-identity-security-policy/177-remote-assistance-status.ps1"
+  },
+  {
+    "Id": 178,
+    "Name": "OpenSSH Server Status",
+    "Group": "Identity & Security Policy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/17-identity-security-policy/178-openssh-server-status.ps1"
+  },
+  {
+    "Id": 179,
+    "Name": "Remote Registry Status",
+    "Group": "Identity & Security Policy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/17-identity-security-policy/179-remote-registry-status.ps1"
+  },
+  {
+    "Id": 180,
+    "Name": "Credential Manager Target Count",
+    "Group": "Identity & Security Policy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/17-identity-security-policy/180-credential-manager-target-count.ps1"
+  },
+  {
+    "Id": 181,
+    "Name": "NTLM Restriction Policy",
+    "Group": "Identity & Security Policy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/17-identity-security-policy/181-ntlm-restriction-policy.ps1"
+  },
+  {
+    "Id": 182,
+    "Name": "LAN Manager Authentication Level",
+    "Group": "Identity & Security Policy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/17-identity-security-policy/182-lan-manager-authentication-level.ps1"
+  },
+  {
+    "Id": 183,
+    "Name": "SMB Guest Logon Policy",
+    "Group": "Identity & Security Policy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/17-identity-security-policy/183-smb-guest-logon-policy.ps1"
+  },
+  {
+    "Id": 184,
+    "Name": "Anonymous Access Restrictions",
+    "Group": "Identity & Security Policy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/17-identity-security-policy/184-anonymous-access-restrictions.ps1"
+  },
+  {
+    "Id": 185,
+    "Name": "AutoRun / AutoPlay Policy",
+    "Group": "Identity & Security Policy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/17-identity-security-policy/185-autorun-autoplay-policy.ps1"
+  },
+  {
+    "Id": 186,
+    "Name": "Removable Storage Policy",
+    "Group": "Identity & Security Policy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/17-identity-security-policy/186-removable-storage-policy.ps1"
+  },
+  {
+    "Id": 187,
+    "Name": "Device Installation Restriction Policy",
+    "Group": "Identity & Security Policy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/17-identity-security-policy/187-device-installation-restriction-policy.ps1"
+  },
+  {
+    "Id": 188,
+    "Name": "Windows Security Options Snapshot",
+    "Group": "Identity & Security Policy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/17-identity-security-policy/188-windows-security-options-snapshot.ps1"
+  },
+  {
+    "Id": 189,
+    "Name": "Local Privileged Group Membership Review",
+    "Group": "Identity & Security Policy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/17-identity-security-policy/189-local-privileged-group-membership-review.ps1"
+  },
+  {
+    "Id": 190,
+    "Name": "User Rights Assignment Snapshot",
+    "Group": "Identity & Security Policy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/17-identity-security-policy/190-user-rights-assignment-snapshot.ps1"
+  },
+  {
+    "Id": 191,
+    "Name": "Windows Event Log Service Health",
+    "Group": "Deep Diagnostics & Event Channels",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/18-deep-diagnostics-event-channels/191-windows-event-log-service-health.ps1"
+  },
+  {
+    "Id": 192,
+    "Name": "Windows Error Reporting Policy",
+    "Group": "Deep Diagnostics & Event Channels",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/18-deep-diagnostics-event-channels/192-windows-error-reporting-policy.ps1"
+  },
+  {
+    "Id": 193,
+    "Name": "Kernel Crash Dump Configuration",
+    "Group": "Deep Diagnostics & Event Channels",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/18-deep-diagnostics-event-channels/193-kernel-crash-dump-configuration.ps1"
+  },
+  {
+    "Id": 194,
+    "Name": "Windows Memory Diagnostic Results",
+    "Group": "Deep Diagnostics & Event Channels",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/18-deep-diagnostics-event-channels/194-windows-memory-diagnostic-results.ps1"
+  },
+  {
+    "Id": 195,
+    "Name": "LiveKernelReports Footprint",
+    "Group": "Deep Diagnostics & Event Channels",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/18-deep-diagnostics-event-channels/195-livekernelreports-footprint.ps1"
+  },
+  {
+    "Id": 196,
+    "Name": "Reliability Critical Event Summary",
+    "Group": "Deep Diagnostics & Event Channels",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/18-deep-diagnostics-event-channels/196-reliability-critical-event-summary.ps1"
+  },
+  {
+    "Id": 197,
+    "Name": "Last Disk Check Results",
+    "Group": "Deep Diagnostics & Event Channels",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/18-deep-diagnostics-event-channels/197-last-disk-check-results.ps1"
+  },
+  {
+    "Id": 198,
+    "Name": "Microsoft Defender Operational Event Summary",
+    "Group": "Deep Diagnostics & Event Channels",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/18-deep-diagnostics-event-channels/198-microsoft-defender-operational-event-summary.ps1"
+  },
+  {
+    "Id": 199,
+    "Name": "Windows Firewall Operational Event Summary",
+    "Group": "Deep Diagnostics & Event Channels",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/18-deep-diagnostics-event-channels/199-windows-firewall-operational-event-summary.ps1"
+  },
+  {
+    "Id": 200,
+    "Name": "Windows Update Operational Event Summary",
+    "Group": "Deep Diagnostics & Event Channels",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/18-deep-diagnostics-event-channels/200-windows-update-operational-event-summary.ps1"
+  },
+  {
+    "Id": 201,
+    "Name": "Local Machine Root CA Store",
+    "Group": "Certificates & Trust",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/19-certificates-trust/201-local-machine-root-ca-store.ps1"
+  },
+  {
+    "Id": 202,
+    "Name": "Local Machine Personal Certificates",
+    "Group": "Certificates & Trust",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/19-certificates-trust/202-local-machine-personal-certificates.ps1"
+  },
+  {
+    "Id": 203,
+    "Name": "Current User Personal Certificates",
+    "Group": "Certificates & Trust",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/19-certificates-trust/203-current-user-personal-certificates.ps1"
+  },
+  {
+    "Id": 204,
+    "Name": "Expired Machine Certificates",
+    "Group": "Certificates & Trust",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/19-certificates-trust/204-expired-machine-certificates.ps1"
+  },
+  {
+    "Id": 205,
+    "Name": "Untrusted Certificate Store",
+    "Group": "Certificates & Trust",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/19-certificates-trust/205-untrusted-certificate-store.ps1"
+  },
+  {
+    "Id": 206,
+    "Name": "Code Signing Certificate Inventory",
+    "Group": "Certificates & Trust",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/19-certificates-trust/206-code-signing-certificate-inventory.ps1"
+  },
+  {
+    "Id": 207,
+    "Name": "Trusted Publishers Store",
+    "Group": "Certificates & Trust",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/19-certificates-trust/207-trusted-publishers-store.ps1"
+  },
+  {
+    "Id": 208,
+    "Name": "Enterprise Trust Store",
+    "Group": "Certificates & Trust",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/19-certificates-trust/208-enterprise-trust-store.ps1"
+  },
+  {
+    "Id": 209,
+    "Name": "Certificate Auto-Enrollment Policy",
+    "Group": "Certificates & Trust",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/19-certificates-trust/209-certificate-auto-enrollment-policy.ps1"
+  },
+  {
+    "Id": 210,
+    "Name": "Cryptographic Services Health",
+    "Group": "Certificates & Trust",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/19-certificates-trust/210-cryptographic-services-health.ps1"
+  },
+  {
+    "Id": 211,
+    "Name": "Defender Network Protection",
+    "Group": "Defender Advanced Security",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/20-defender-advanced-security/211-defender-network-protection.ps1"
+  },
+  {
+    "Id": 212,
+    "Name": "Defender PUA Protection",
+    "Group": "Defender Advanced Security",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/20-defender-advanced-security/212-defender-pua-protection.ps1"
+  },
+  {
+    "Id": 213,
+    "Name": "Defender Cloud Protection",
+    "Group": "Defender Advanced Security",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/20-defender-advanced-security/213-defender-cloud-protection.ps1"
+  },
+  {
+    "Id": 214,
+    "Name": "Defender Sample Submission Policy",
+    "Group": "Defender Advanced Security",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/20-defender-advanced-security/214-defender-sample-submission-policy.ps1"
+  },
+  {
+    "Id": 215,
+    "Name": "Defender Scan Schedule",
+    "Group": "Defender Advanced Security",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/20-defender-advanced-security/215-defender-scan-schedule.ps1"
+  },
+  {
+    "Id": 216,
+    "Name": "Defender Scan CPU Limit",
+    "Group": "Defender Advanced Security",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/20-defender-advanced-security/216-defender-scan-cpu-limit.ps1"
+  },
+  {
+    "Id": 217,
+    "Name": "Defender Exclusion Extensions",
+    "Group": "Defender Advanced Security",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/20-defender-advanced-security/217-defender-exclusion-extensions.ps1"
+  },
+  {
+    "Id": 218,
+    "Name": "Defender Exclusion Processes",
+    "Group": "Defender Advanced Security",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/20-defender-advanced-security/218-defender-exclusion-processes.ps1"
+  },
+  {
+    "Id": 219,
+    "Name": "CFA Protected Folders",
+    "Group": "Defender Advanced Security",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/20-defender-advanced-security/219-cfa-protected-folders.ps1"
+  },
+  {
+    "Id": 220,
+    "Name": "Defender Quarantine Retention",
+    "Group": "Defender Advanced Security",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/20-defender-advanced-security/220-defender-quarantine-retention.ps1"
+  },
+  {
+    "Id": 221,
+    "Name": "Boot Integrity Flags",
+    "Group": "Device Security & Driver Integrity",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/21-device-security-driver-integrity/221-boot-integrity-flags.ps1"
+  },
+  {
+    "Id": 222,
+    "Name": "Kernel Driver Blocklist Policy",
+    "Group": "Device Security & Driver Integrity",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/21-device-security-driver-integrity/222-kernel-driver-blocklist-policy.ps1"
+  },
+  {
+    "Id": 223,
+    "Name": "Device Guard Security Properties",
+    "Group": "Device Security & Driver Integrity",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/21-device-security-driver-integrity/223-device-guard-security-properties.ps1"
+  },
+  {
+    "Id": 224,
+    "Name": "Unsigned PnP Driver Inventory",
+    "Group": "Device Security & Driver Integrity",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/21-device-security-driver-integrity/224-unsigned-pnp-driver-inventory.ps1"
+  },
+  {
+    "Id": 225,
+    "Name": "Problem PnP Devices",
+    "Group": "Device Security & Driver Integrity",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/21-device-security-driver-integrity/225-problem-pnp-devices.ps1"
+  },
+  {
+    "Id": 226,
+    "Name": "Driver Verifier Configuration",
+    "Group": "Device Security & Driver Integrity",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/21-device-security-driver-integrity/226-driver-verifier-configuration.ps1"
+  },
+  {
+    "Id": 227,
+    "Name": "Third-Party Driver Package Inventory",
+    "Group": "Device Security & Driver Integrity",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/21-device-security-driver-integrity/227-third-party-driver-package-inventory.ps1"
+  },
+  {
+    "Id": 228,
+    "Name": "Driver Search and Update Policy",
+    "Group": "Device Security & Driver Integrity",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/21-device-security-driver-integrity/228-driver-search-and-update-policy.ps1"
+  },
+  {
+    "Id": 229,
+    "Name": "Kernel PnP Error Events",
+    "Group": "Device Security & Driver Integrity",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/21-device-security-driver-integrity/229-kernel-pnp-error-events.ps1"
+  },
+  {
+    "Id": 230,
+    "Name": "Device Metadata Retrieval Policy",
+    "Group": "Device Security & Driver Integrity",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/21-device-security-driver-integrity/230-device-metadata-retrieval-policy.ps1"
+  },
+  {
+    "Id": 231,
+    "Name": "Applied Computer Group Policy Summary",
+    "Group": "Group Policy & Enterprise Configuration",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/22-group-policy-enterprise-configuration/231-applied-computer-group-policy-summary.ps1"
+  },
+  {
+    "Id": 232,
+    "Name": "Applied User Group Policy Summary",
+    "Group": "Group Policy & Enterprise Configuration",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/22-group-policy-enterprise-configuration/232-applied-user-group-policy-summary.ps1"
+  },
+  {
+    "Id": 233,
+    "Name": "Windows Update for Business Policy",
+    "Group": "Group Policy & Enterprise Configuration",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/22-group-policy-enterprise-configuration/233-windows-update-for-business-policy.ps1"
+  },
+  {
+    "Id": 234,
+    "Name": "OneDrive Enterprise Policy",
+    "Group": "Group Policy & Enterprise Configuration",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/22-group-policy-enterprise-configuration/234-onedrive-enterprise-policy.ps1"
+  },
+  {
+    "Id": 235,
+    "Name": "Microsoft Edge Policy Snapshot",
+    "Group": "Group Policy & Enterprise Configuration",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/22-group-policy-enterprise-configuration/235-microsoft-edge-policy-snapshot.ps1"
+  },
+  {
+    "Id": 236,
+    "Name": "Defender Policy Registry Snapshot",
+    "Group": "Group Policy & Enterprise Configuration",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/22-group-policy-enterprise-configuration/236-defender-policy-registry-snapshot.ps1"
+  },
+  {
+    "Id": 237,
+    "Name": "Windows Hello for Business Policy",
+    "Group": "Group Policy & Enterprise Configuration",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/22-group-policy-enterprise-configuration/237-windows-hello-for-business-policy.ps1"
+  },
+  {
+    "Id": 238,
+    "Name": "Remote Desktop Group Policy",
+    "Group": "Group Policy & Enterprise Configuration",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/22-group-policy-enterprise-configuration/238-remote-desktop-group-policy.ps1"
+  },
+  {
+    "Id": 239,
+    "Name": "MDM Enrollment Registry Inventory",
+    "Group": "Group Policy & Enterprise Configuration",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/22-group-policy-enterprise-configuration/239-mdm-enrollment-registry-inventory.ps1"
+  },
+  {
+    "Id": 240,
+    "Name": "PolicyManager Device Policy Snapshot",
+    "Group": "Group Policy & Enterprise Configuration",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/22-group-policy-enterprise-configuration/240-policymanager-device-policy-snapshot.ps1"
+  },
+  {
+    "Id": 241,
+    "Name": "Win32 Long Path Support",
+    "Group": "File System & Data Protection",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/23-file-system-data-protection/241-win32-long-path-support.ps1"
+  },
+  {
+    "Id": 242,
+    "Name": "NTFS 8.3 Name Creation State",
+    "Group": "File System & Data Protection",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/23-file-system-data-protection/242-ntfs-8-3-name-creation-state.ps1"
+  },
+  {
+    "Id": 243,
+    "Name": "NTFS Last Access Timestamp Policy",
+    "Group": "File System & Data Protection",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/23-file-system-data-protection/243-ntfs-last-access-timestamp-policy.ps1"
+  },
+  {
+    "Id": 244,
+    "Name": "NTFS Symlink Evaluation Policy",
+    "Group": "File System & Data Protection",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/23-file-system-data-protection/244-ntfs-symlink-evaluation-policy.ps1"
+  },
+  {
+    "Id": 245,
+    "Name": "EFS Current User Certificate Status",
+    "Group": "File System & Data Protection",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/23-file-system-data-protection/245-efs-current-user-certificate-status.ps1"
+  },
+  {
+    "Id": 246,
+    "Name": "File History Service Status",
+    "Group": "File System & Data Protection",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/23-file-system-data-protection/246-file-history-service-status.ps1"
+  },
+  {
+    "Id": 247,
+    "Name": "Work Folders Service Status",
+    "Group": "File System & Data Protection",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/23-file-system-data-protection/247-work-folders-service-status.ps1"
+  },
+  {
+    "Id": 248,
+    "Name": "Offline Files Configuration",
+    "Group": "File System & Data Protection",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/23-file-system-data-protection/248-offline-files-configuration.ps1"
+  },
+  {
+    "Id": 249,
+    "Name": "System Restore Configuration",
+    "Group": "File System & Data Protection",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/23-file-system-data-protection/249-system-restore-configuration.ps1"
+  },
+  {
+    "Id": 250,
+    "Name": "Windows Backup Operational Events",
+    "Group": "File System & Data Protection",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/23-file-system-data-protection/250-windows-backup-operational-events.ps1"
+  },
+  {
+    "Id": 251,
+    "Name": "Windows Firewall Logging Configuration",
+    "Group": "Advanced Networking & Remote Access",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/24-advanced-networking-remote-access/251-windows-firewall-logging-configuration.ps1"
+  },
+  {
+    "Id": 252,
+    "Name": "IPsec Rule Inventory",
+    "Group": "Advanced Networking & Remote Access",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/24-advanced-networking-remote-access/252-ipsec-rule-inventory.ps1"
+  },
+  {
+    "Id": 253,
+    "Name": "IPsec Main Mode Rule Inventory",
+    "Group": "Advanced Networking & Remote Access",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/24-advanced-networking-remote-access/253-ipsec-main-mode-rule-inventory.ps1"
+  },
+  {
+    "Id": 254,
+    "Name": "DNS Client Service Health",
+    "Group": "Advanced Networking & Remote Access",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/24-advanced-networking-remote-access/254-dns-client-service-health.ps1"
+  },
+  {
+    "Id": 255,
+    "Name": "WPAD and Proxy Auto-Discovery Policy",
+    "Group": "Advanced Networking & Remote Access",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/24-advanced-networking-remote-access/255-wpad-and-proxy-auto-discovery-policy.ps1"
+  },
+  {
+    "Id": 256,
+    "Name": "HTTP.sys URL Reservations",
+    "Group": "Advanced Networking & Remote Access",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/24-advanced-networking-remote-access/256-http-sys-url-reservations.ps1"
+  },
+  {
+    "Id": 257,
+    "Name": "HTTP.sys SSL Certificate Bindings",
+    "Group": "Advanced Networking & Remote Access",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/24-advanced-networking-remote-access/257-http-sys-ssl-certificate-bindings.ps1"
+  },
+  {
+    "Id": 258,
+    "Name": "WinRM Listener Inventory",
+    "Group": "Advanced Networking & Remote Access",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/24-advanced-networking-remote-access/258-winrm-listener-inventory.ps1"
+  },
+  {
+    "Id": 259,
+    "Name": "Remote Desktop Firewall Rules",
+    "Group": "Advanced Networking & Remote Access",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/24-advanced-networking-remote-access/259-remote-desktop-firewall-rules.ps1"
+  },
+  {
+    "Id": 260,
+    "Name": "Terminal Session Inventory",
+    "Group": "Advanced Networking & Remote Access",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/24-advanced-networking-remote-access/260-terminal-session-inventory.ps1"
+  },
+  {
+    "Id": 261,
+    "Name": "Installed .NET Runtimes",
+    "Group": "Windows Apps & Runtime Components",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/25-windows-apps-runtime-components/261-installed-net-runtimes.ps1"
+  },
+  {
+    "Id": 262,
+    "Name": "Installed .NET SDKs",
+    "Group": "Windows Apps & Runtime Components",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/25-windows-apps-runtime-components/262-installed-net-sdks.ps1"
+  },
+  {
+    "Id": 263,
+    "Name": "Visual C++ Redistributable Inventory",
+    "Group": "Windows Apps & Runtime Components",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/25-windows-apps-runtime-components/263-visual-c-redistributable-inventory.ps1"
+  },
+  {
+    "Id": 264,
+    "Name": "Edge WebView2 Runtime Inventory",
+    "Group": "Windows Apps & Runtime Components",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/25-windows-apps-runtime-components/264-edge-webview2-runtime-inventory.ps1"
+  },
+  {
+    "Id": 265,
+    "Name": "Installed PowerShell Editions",
+    "Group": "Windows Apps & Runtime Components",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/25-windows-apps-runtime-components/265-installed-powershell-editions.ps1"
+  },
+  {
+    "Id": 266,
+    "Name": "Windows Terminal Package Status",
+    "Group": "Windows Apps & Runtime Components",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/25-windows-apps-runtime-components/266-windows-terminal-package-status.ps1"
+  },
+  {
+    "Id": 267,
+    "Name": "Windows Package Manager Version",
+    "Group": "Windows Apps & Runtime Components",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/25-windows-apps-runtime-components/267-windows-package-manager-version.ps1"
+  },
+  {
+    "Id": 268,
+    "Name": "OpenSSH Client Capability",
+    "Group": "Windows Apps & Runtime Components",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/25-windows-apps-runtime-components/268-openssh-client-capability.ps1"
+  },
+  {
+    "Id": 269,
+    "Name": "OpenSSH Server Capability",
+    "Group": "Windows Apps & Runtime Components",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/25-windows-apps-runtime-components/269-openssh-server-capability.ps1"
+  },
+  {
+    "Id": 270,
+    "Name": "App Installer Package Health",
+    "Group": "Windows Apps & Runtime Components",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/25-windows-apps-runtime-components/270-app-installer-package-health.ps1"
+  },
+  {
+    "Id": 271,
+    "Name": "Windows Management Instrumentation Health",
+    "Group": "System Services & Management",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/26-system-services-management/271-windows-management-instrumentation-health.ps1"
+  },
+  {
+    "Id": 272,
+    "Name": "RPC and DCOM Core Service Health",
+    "Group": "System Services & Management",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/26-system-services-management/272-rpc-and-dcom-core-service-health.ps1"
+  },
+  {
+    "Id": 273,
+    "Name": "DCOM Security Configuration",
+    "Group": "System Services & Management",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/26-system-services-management/273-dcom-security-configuration.ps1"
+  },
+  {
+    "Id": 274,
+    "Name": "Task Scheduler Service Health",
+    "Group": "System Services & Management",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/26-system-services-management/274-task-scheduler-service-health.ps1"
+  },
+  {
+    "Id": 275,
+    "Name": "BITS Service Health",
+    "Group": "System Services & Management",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/26-system-services-management/275-bits-service-health.ps1"
+  },
+  {
+    "Id": 276,
+    "Name": "Windows Installer Service Health",
+    "Group": "System Services & Management",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/26-system-services-management/276-windows-installer-service-health.ps1"
+  },
+  {
+    "Id": 277,
+    "Name": "COM+ Event System Health",
+    "Group": "System Services & Management",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/26-system-services-management/277-com-event-system-health.ps1"
+  },
+  {
+    "Id": 278,
+    "Name": "User Profile Service Health",
+    "Group": "System Services & Management",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/26-system-services-management/278-user-profile-service-health.ps1"
+  },
+  {
+    "Id": 279,
+    "Name": "Application Information Service Health",
+    "Group": "System Services & Management",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/26-system-services-management/279-application-information-service-health.ps1"
+  },
+  {
+    "Id": 280,
+    "Name": "Windows Licensing Service Health",
+    "Group": "System Services & Management",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/26-system-services-management/280-windows-licensing-service-health.ps1"
+  },
+  {
+    "Id": 281,
+    "Name": "File Explorer Search History Policy",
+    "Group": "User Experience & Privacy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/27-user-experience-privacy/281-file-explorer-search-history-policy.ps1"
+  },
+  {
+    "Id": 282,
+    "Name": "Recent Documents Policy",
+    "Group": "User Experience & Privacy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/27-user-experience-privacy/282-recent-documents-policy.ps1"
+  },
+  {
+    "Id": 283,
+    "Name": "Windows Location Service Status",
+    "Group": "User Experience & Privacy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/27-user-experience-privacy/283-windows-location-service-status.ps1"
+  },
+  {
+    "Id": 284,
+    "Name": "Camera Consent Configuration",
+    "Group": "User Experience & Privacy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/27-user-experience-privacy/284-camera-consent-configuration.ps1"
+  },
+  {
+    "Id": 285,
+    "Name": "Microphone Consent Configuration",
+    "Group": "User Experience & Privacy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/27-user-experience-privacy/285-microphone-consent-configuration.ps1"
+  },
+  {
+    "Id": 286,
+    "Name": "Windows Notification Configuration",
+    "Group": "User Experience & Privacy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/27-user-experience-privacy/286-windows-notification-configuration.ps1"
+  },
+  {
+    "Id": 287,
+    "Name": "Windows Web Experience Pack Status",
+    "Group": "User Experience & Privacy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/27-user-experience-privacy/287-windows-web-experience-pack-status.ps1"
+  },
+  {
+    "Id": 288,
+    "Name": "Windows Copilot Policy",
+    "Group": "User Experience & Privacy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/27-user-experience-privacy/288-windows-copilot-policy.ps1"
+  },
+  {
+    "Id": 289,
+    "Name": "Windows AI / Recall Policy Snapshot",
+    "Group": "User Experience & Privacy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/27-user-experience-privacy/289-windows-ai-recall-policy-snapshot.ps1"
+  },
+  {
+    "Id": 290,
+    "Name": "Consumer Experiences and Suggested Content",
+    "Group": "User Experience & Privacy",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/27-user-experience-privacy/290-consumer-experiences-and-suggested-content.ps1"
+  },
+  {
+    "Id": 291,
+    "Name": "Processor Topology Inventory",
+    "Group": "Advanced Diagnostics & Performance",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/28-advanced-diagnostics-performance/291-processor-topology-inventory.ps1"
+  },
+  {
+    "Id": 292,
+    "Name": "Hypervisor Presence",
+    "Group": "Advanced Diagnostics & Performance",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/28-advanced-diagnostics-performance/292-hypervisor-presence.ps1"
+  },
+  {
+    "Id": 293,
+    "Name": "System Uptime and Last Boot",
+    "Group": "Advanced Diagnostics & Performance",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/28-advanced-diagnostics-performance/293-system-uptime-and-last-boot.ps1"
+  },
+  {
+    "Id": 294,
+    "Name": "Memory Device Inventory",
+    "Group": "Advanced Diagnostics & Performance",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/28-advanced-diagnostics-performance/294-memory-device-inventory.ps1"
+  },
+  {
+    "Id": 295,
+    "Name": "Disk Performance Snapshot",
+    "Group": "Advanced Diagnostics & Performance",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/28-advanced-diagnostics-performance/295-disk-performance-snapshot.ps1"
+  },
+  {
+    "Id": 296,
+    "Name": "Top Memory Processes Snapshot",
+    "Group": "Advanced Diagnostics & Performance",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/28-advanced-diagnostics-performance/296-top-memory-processes-snapshot.ps1"
+  },
+  {
+    "Id": 297,
+    "Name": "Top CPU Processes Snapshot",
+    "Group": "Advanced Diagnostics & Performance",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/28-advanced-diagnostics-performance/297-top-cpu-processes-snapshot.ps1"
+  },
+  {
+    "Id": 298,
+    "Name": "System Error Event Summary",
+    "Group": "Advanced Diagnostics & Performance",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/28-advanced-diagnostics-performance/298-system-error-event-summary.ps1"
+  },
+  {
+    "Id": 299,
+    "Name": "Application Error Event Summary",
+    "Group": "Advanced Diagnostics & Performance",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/28-advanced-diagnostics-performance/299-application-error-event-summary.ps1"
+  },
+  {
+    "Id": 300,
+    "Name": "Device Setup Manager Event Summary",
+    "Group": "Advanced Diagnostics & Performance",
+    "Adapter": "AuditCompat300",
+    "Path": "Modules/28-advanced-diagnostics-performance/300-device-setup-manager-event-summary.ps1"
+  },
+  {
+    "Id": 301,
+    "Name": "Kerberos Ticket Cache Inventory",
+    "Group": "Credential & Authentication",
+    "Adapter": "Native",
+    "Path": "Modules/29-credential-authentication/301-kerberos-ticket-cache-inventory.ps1"
+  },
+  {
+    "Id": 302,
+    "Name": "Kerberos Session List",
+    "Group": "Credential & Authentication",
+    "Adapter": "Native",
+    "Path": "Modules/29-credential-authentication/302-kerberos-session-list.ps1"
+  },
+  {
+    "Id": 303,
+    "Name": "Kerberos Policy Registry Snapshot",
+    "Group": "Credential & Authentication",
+    "Adapter": "Native",
+    "Path": "Modules/29-credential-authentication/303-kerberos-policy-registry-snapshot.ps1"
+  },
+  {
+    "Id": 304,
+    "Name": "NTLM Restriction Policy",
+    "Group": "Credential & Authentication",
+    "Adapter": "Native",
+    "Path": "Modules/29-credential-authentication/304-ntlm-restriction-policy.ps1"
+  },
+  {
+    "Id": 305,
+    "Name": "LAN Manager Compatibility Level",
+    "Group": "Credential & Authentication",
+    "Adapter": "Native",
+    "Path": "Modules/29-credential-authentication/305-lan-manager-compatibility-level.ps1"
+  },
+  {
+    "Id": 306,
+    "Name": "WDigest Credential Caching Policy",
+    "Group": "Credential & Authentication",
+    "Adapter": "Native",
+    "Path": "Modules/29-credential-authentication/306-wdigest-credential-caching-policy.ps1"
+  },
+  {
+    "Id": 307,
+    "Name": "Cached Interactive Logons Policy",
+    "Group": "Credential & Authentication",
+    "Adapter": "Native",
+    "Path": "Modules/29-credential-authentication/307-cached-interactive-logons-policy.ps1"
+  },
+  {
+    "Id": 308,
+    "Name": "Credential Delegation Policy",
+    "Group": "Credential & Authentication",
+    "Adapter": "Native",
+    "Path": "Modules/29-credential-authentication/308-credential-delegation-policy.ps1"
+  },
+  {
+    "Id": 309,
+    "Name": "Remote Credential Guard Policy",
+    "Group": "Credential & Authentication",
+    "Adapter": "Native",
+    "Path": "Modules/29-credential-authentication/309-remote-credential-guard-policy.ps1"
+  },
+  {
+    "Id": 310,
+    "Name": "RDP Restricted Admin State",
+    "Group": "Credential & Authentication",
+    "Adapter": "Native",
+    "Path": "Modules/29-credential-authentication/310-rdp-restricted-admin-state.ps1"
+  },
+  {
+    "Id": 311,
+    "Name": "Logon UI Privacy Policy",
+    "Group": "Credential & Authentication",
+    "Adapter": "Native",
+    "Path": "Modules/29-credential-authentication/311-logon-ui-privacy-policy.ps1"
+  },
+  {
+    "Id": 312,
+    "Name": "Windows Hello Provisioning Policy",
+    "Group": "Credential & Authentication",
+    "Adapter": "Native",
+    "Path": "Modules/29-credential-authentication/312-windows-hello-provisioning-policy.ps1"
+  },
+  {
+    "Id": 313,
+    "Name": "Smart Card Service Health",
+    "Group": "Credential & Authentication",
+    "Adapter": "Native",
+    "Path": "Modules/29-credential-authentication/313-smart-card-service-health.ps1"
+  },
+  {
+    "Id": 314,
+    "Name": "Secondary Logon Service Health",
+    "Group": "Credential & Authentication",
+    "Adapter": "Native",
+    "Path": "Modules/29-credential-authentication/314-secondary-logon-service-health.ps1"
+  },
+  {
+    "Id": 315,
+    "Name": "Credential Manager Service Health",
+    "Group": "Credential & Authentication",
+    "Adapter": "Native",
+    "Path": "Modules/29-credential-authentication/315-credential-manager-service-health.ps1"
+  },
+  {
+    "Id": 316,
+    "Name": "DPAPI User Store Footprint",
+    "Group": "Credential & Authentication",
+    "Adapter": "Native",
+    "Path": "Modules/29-credential-authentication/316-dpapi-user-store-footprint.ps1"
+  },
+  {
+    "Id": 317,
+    "Name": "Credential Manager Target Metadata",
+    "Group": "Credential & Authentication",
+    "Adapter": "Native",
+    "Path": "Modules/29-credential-authentication/317-credential-manager-target-metadata.ps1"
+  },
+  {
+    "Id": 318,
+    "Name": "LSA Security Packages",
+    "Group": "Credential & Authentication",
+    "Adapter": "Native",
+    "Path": "Modules/29-credential-authentication/318-lsa-security-packages.ps1"
+  },
+  {
+    "Id": 319,
+    "Name": "LSA Authentication Packages",
+    "Group": "Credential & Authentication",
+    "Adapter": "Native",
+    "Path": "Modules/29-credential-authentication/319-lsa-authentication-packages.ps1"
+  },
+  {
+    "Id": 320,
+    "Name": "Winlogon Notification Packages",
+    "Group": "Credential & Authentication",
+    "Adapter": "Native",
+    "Path": "Modules/29-credential-authentication/320-winlogon-notification-packages.ps1"
+  },
+  {
+    "Id": 321,
+    "Name": "TLS 1.0 Client Policy",
+    "Group": "TLS, Schannel & Crypto",
+    "Adapter": "Native",
+    "Path": "Modules/30-tls-schannel-crypto/321-tls-1-0-client-policy.ps1"
+  },
+  {
+    "Id": 322,
+    "Name": "TLS 1.0 Server Policy",
+    "Group": "TLS, Schannel & Crypto",
+    "Adapter": "Native",
+    "Path": "Modules/30-tls-schannel-crypto/322-tls-1-0-server-policy.ps1"
+  },
+  {
+    "Id": 323,
+    "Name": "TLS 1.1 Client Policy",
+    "Group": "TLS, Schannel & Crypto",
+    "Adapter": "Native",
+    "Path": "Modules/30-tls-schannel-crypto/323-tls-1-1-client-policy.ps1"
+  },
+  {
+    "Id": 324,
+    "Name": "TLS 1.1 Server Policy",
+    "Group": "TLS, Schannel & Crypto",
+    "Adapter": "Native",
+    "Path": "Modules/30-tls-schannel-crypto/324-tls-1-1-server-policy.ps1"
+  },
+  {
+    "Id": 325,
+    "Name": "TLS 1.2 Client Policy",
+    "Group": "TLS, Schannel & Crypto",
+    "Adapter": "Native",
+    "Path": "Modules/30-tls-schannel-crypto/325-tls-1-2-client-policy.ps1"
+  },
+  {
+    "Id": 326,
+    "Name": "TLS 1.2 Server Policy",
+    "Group": "TLS, Schannel & Crypto",
+    "Adapter": "Native",
+    "Path": "Modules/30-tls-schannel-crypto/326-tls-1-2-server-policy.ps1"
+  },
+  {
+    "Id": 327,
+    "Name": "TLS 1.3 Client Policy",
+    "Group": "TLS, Schannel & Crypto",
+    "Adapter": "Native",
+    "Path": "Modules/30-tls-schannel-crypto/327-tls-1-3-client-policy.ps1"
+  },
+  {
+    "Id": 328,
+    "Name": "TLS 1.3 Server Policy",
+    "Group": "TLS, Schannel & Crypto",
+    "Adapter": "Native",
+    "Path": "Modules/30-tls-schannel-crypto/328-tls-1-3-server-policy.ps1"
+  },
+  {
+    "Id": 329,
+    "Name": "TLS Cipher Suite Inventory",
+    "Group": "TLS, Schannel & Crypto",
+    "Adapter": "Native",
+    "Path": "Modules/30-tls-schannel-crypto/329-tls-cipher-suite-inventory.ps1"
+  },
+  {
+    "Id": 330,
+    "Name": "TLS Cipher Suite Order Policy",
+    "Group": "TLS, Schannel & Crypto",
+    "Adapter": "Native",
+    "Path": "Modules/30-tls-schannel-crypto/330-tls-cipher-suite-order-policy.ps1"
+  },
+  {
+    "Id": 331,
+    "Name": "Windows FIPS Algorithm Policy",
+    "Group": "TLS, Schannel & Crypto",
+    "Adapter": "Native",
+    "Path": "Modules/30-tls-schannel-crypto/331-windows-fips-algorithm-policy.ps1"
+  },
+  {
+    "Id": 332,
+    "Name": "Schannel Event Logging Policy",
+    "Group": "TLS, Schannel & Crypto",
+    "Adapter": "Native",
+    "Path": "Modules/30-tls-schannel-crypto/332-schannel-event-logging-policy.ps1"
+  },
+  {
+    "Id": 333,
+    "Name": "SSL 3.0 Client Policy",
+    "Group": "TLS, Schannel & Crypto",
+    "Adapter": "Native",
+    "Path": "Modules/30-tls-schannel-crypto/333-ssl-3-0-client-policy.ps1"
+  },
+  {
+    "Id": 334,
+    "Name": "SSL 3.0 Server Policy",
+    "Group": "TLS, Schannel & Crypto",
+    "Adapter": "Native",
+    "Path": "Modules/30-tls-schannel-crypto/334-ssl-3-0-server-policy.ps1"
+  },
+  {
+    "Id": 335,
+    "Name": "Trusted Root Auto Update Policy",
+    "Group": "TLS, Schannel & Crypto",
+    "Adapter": "Native",
+    "Path": "Modules/30-tls-schannel-crypto/335-trusted-root-auto-update-policy.ps1"
+  },
+  {
+    "Id": 336,
+    "Name": "Cryptographic Service Provider Inventory",
+    "Group": "TLS, Schannel & Crypto",
+    "Adapter": "Native",
+    "Path": "Modules/30-tls-schannel-crypto/336-cryptographic-service-provider-inventory.ps1"
+  },
+  {
+    "Id": 337,
+    "Name": "CNG Key Storage Provider Inventory",
+    "Group": "TLS, Schannel & Crypto",
+    "Adapter": "Native",
+    "Path": "Modules/30-tls-schannel-crypto/337-cng-key-storage-provider-inventory.ps1"
+  },
+  {
+    "Id": 338,
+    "Name": "Current User RSA Key Store Footprint",
+    "Group": "TLS, Schannel & Crypto",
+    "Adapter": "Native",
+    "Path": "Modules/30-tls-schannel-crypto/338-current-user-rsa-key-store-footprint.ps1"
+  },
+  {
+    "Id": 339,
+    "Name": "Schannel Event Summary",
+    "Group": "TLS, Schannel & Crypto",
+    "Adapter": "Native",
+    "Path": "Modules/30-tls-schannel-crypto/339-schannel-event-summary.ps1"
+  },
+  {
+    "Id": 340,
+    "Name": "CAPI2 Operational Error Summary",
+    "Group": "TLS, Schannel & Crypto",
+    "Adapter": "Native",
+    "Path": "Modules/30-tls-schannel-crypto/340-capi2-operational-error-summary.ps1"
+  },
+  {
+    "Id": 341,
+    "Name": "Update Orchestrator Task Inventory",
+    "Group": "Windows Update Deep Health",
+    "Adapter": "Native",
+    "Path": "Modules/31-windows-update-deep-health/341-update-orchestrator-task-inventory.ps1"
+  },
+  {
+    "Id": 342,
+    "Name": "Windows Update Scheduled Task Health",
+    "Group": "Windows Update Deep Health",
+    "Adapter": "Native",
+    "Path": "Modules/31-windows-update-deep-health/342-windows-update-scheduled-task-health.ps1"
+  },
+  {
+    "Id": 343,
+    "Name": "Windows Update DataStore Footprint",
+    "Group": "Windows Update Deep Health",
+    "Adapter": "Native",
+    "Path": "Modules/31-windows-update-deep-health/343-windows-update-datastore-footprint.ps1"
+  },
+  {
+    "Id": 344,
+    "Name": "SoftwareDistribution Total Footprint",
+    "Group": "Windows Update Deep Health",
+    "Adapter": "Native",
+    "Path": "Modules/31-windows-update-deep-health/344-softwaredistribution-total-footprint.ps1"
+  },
+  {
+    "Id": 345,
+    "Name": "Catroot2 Footprint",
+    "Group": "Windows Update Deep Health",
+    "Adapter": "Native",
+    "Path": "Modules/31-windows-update-deep-health/345-catroot2-footprint.ps1"
+  },
+  {
+    "Id": 346,
+    "Name": "Update Reboot Coordinator Task Inventory",
+    "Group": "Windows Update Deep Health",
+    "Adapter": "Native",
+    "Path": "Modules/31-windows-update-deep-health/346-update-reboot-coordinator-task-inventory.ps1"
+  },
+  {
+    "Id": 347,
+    "Name": "Windows Update Reboot Policy",
+    "Group": "Windows Update Deep Health",
+    "Adapter": "Native",
+    "Path": "Modules/31-windows-update-deep-health/347-windows-update-reboot-policy.ps1"
+  },
+  {
+    "Id": 348,
+    "Name": "Windows Update Active Hours Policy",
+    "Group": "Windows Update Deep Health",
+    "Adapter": "Native",
+    "Path": "Modules/31-windows-update-deep-health/348-windows-update-active-hours-policy.ps1"
+  },
+  {
+    "Id": 349,
+    "Name": "Windows Update Service Dependency Snapshot",
+    "Group": "Windows Update Deep Health",
+    "Adapter": "Native",
+    "Path": "Modules/31-windows-update-deep-health/349-windows-update-service-dependency-snapshot.ps1"
+  },
+  {
+    "Id": 350,
+    "Name": "Windows Update Deep Error Channels",
+    "Group": "Windows Update Deep Health",
+    "Adapter": "Native",
+    "Path": "Modules/31-windows-update-deep-health/350-windows-update-deep-error-channels.ps1"
+  },
+  {
+    "Id": 351,
+    "Name": "Windows Update Source Policy",
+    "Group": "Windows Update Deep Health",
+    "Adapter": "Native",
+    "Path": "Modules/31-windows-update-deep-health/351-windows-update-source-policy.ps1"
+  },
+  {
+    "Id": 352,
+    "Name": "Automatic Updates Policy",
+    "Group": "Windows Update Deep Health",
+    "Adapter": "Native",
+    "Path": "Modules/31-windows-update-deep-health/352-automatic-updates-policy.ps1"
+  },
+  {
+    "Id": 353,
+    "Name": "Windows Update Medic Service Health",
+    "Group": "Windows Update Deep Health",
+    "Adapter": "Native",
+    "Path": "Modules/31-windows-update-deep-health/353-windows-update-medic-service-health.ps1"
+  },
+  {
+    "Id": 354,
+    "Name": "Update Session Orchestrator Service Health",
+    "Group": "Windows Update Deep Health",
+    "Adapter": "Native",
+    "Path": "Modules/31-windows-update-deep-health/354-update-session-orchestrator-service-health.ps1"
+  },
+  {
+    "Id": 355,
+    "Name": "Delivery Optimization Service Health",
+    "Group": "Windows Update Deep Health",
+    "Adapter": "Native",
+    "Path": "Modules/31-windows-update-deep-health/355-delivery-optimization-service-health.ps1"
+  },
+  {
+    "Id": 356,
+    "Name": "Windows Update DataStore Footprint",
+    "Group": "Windows Update Deep Health",
+    "Adapter": "Native",
+    "Path": "Modules/31-windows-update-deep-health/356-windows-update-datastore-footprint.ps1"
+  },
+  {
+    "Id": 357,
+    "Name": "Catroot2 Footprint",
+    "Group": "Windows Update Deep Health",
+    "Adapter": "Native",
+    "Path": "Modules/31-windows-update-deep-health/357-catroot2-footprint.ps1"
+  },
+  {
+    "Id": 358,
+    "Name": "Windows Servicing Error Events",
+    "Group": "Windows Update Deep Health",
+    "Adapter": "Native",
+    "Path": "Modules/31-windows-update-deep-health/358-windows-servicing-error-events.ps1"
+  },
+  {
+    "Id": 359,
+    "Name": "Windows Update Client Error Events",
+    "Group": "Windows Update Deep Health",
+    "Adapter": "Native",
+    "Path": "Modules/31-windows-update-deep-health/359-windows-update-client-error-events.ps1"
+  },
+  {
+    "Id": 360,
+    "Name": "DISM Package State Inventory",
+    "Group": "Windows Update Deep Health",
+    "Adapter": "Native",
+    "Path": "Modules/31-windows-update-deep-health/360-dism-package-state-inventory.ps1"
+  },
+  {
+    "Id": 361,
+    "Name": "Firmware Type Detection",
+    "Group": "Advanced Boot, UEFI & Firmware Security",
+    "Adapter": "Native",
+    "Path": "Modules/32-advanced-boot-uefi-firmware-security/361-firmware-type-detection.ps1"
+  },
+  {
+    "Id": 362,
+    "Name": "Secure Boot Native Verification",
+    "Group": "Advanced Boot, UEFI & Firmware Security",
+    "Adapter": "Native",
+    "Path": "Modules/32-advanced-boot-uefi-firmware-security/362-secure-boot-native-verification.ps1"
+  },
+  {
+    "Id": 363,
+    "Name": "Device Guard Security Properties",
+    "Group": "Advanced Boot, UEFI & Firmware Security",
+    "Adapter": "Native",
+    "Path": "Modules/32-advanced-boot-uefi-firmware-security/363-device-guard-security-properties.ps1"
+  },
+  {
+    "Id": 364,
+    "Name": "Hypervisor Launch Configuration",
+    "Group": "Advanced Boot, UEFI & Firmware Security",
+    "Adapter": "Native",
+    "Path": "Modules/32-advanced-boot-uefi-firmware-security/364-hypervisor-launch-configuration.ps1"
+  },
+  {
+    "Id": 365,
+    "Name": "TPM Provisioning State",
+    "Group": "Advanced Boot, UEFI & Firmware Security",
+    "Adapter": "Native",
+    "Path": "Modules/32-advanced-boot-uefi-firmware-security/365-tpm-provisioning-state.ps1"
+  },
+  {
+    "Id": 366,
+    "Name": "TPM Device Information",
+    "Group": "Advanced Boot, UEFI & Firmware Security",
+    "Adapter": "Native",
+    "Path": "Modules/32-advanced-boot-uefi-firmware-security/366-tpm-device-information.ps1"
+  },
+  {
+    "Id": 367,
+    "Name": "BIOS and UEFI Firmware Inventory",
+    "Group": "Advanced Boot, UEFI & Firmware Security",
+    "Adapter": "Native",
+    "Path": "Modules/32-advanced-boot-uefi-firmware-security/367-bios-and-uefi-firmware-inventory.ps1"
+  },
+  {
+    "Id": 368,
+    "Name": "Baseboard Identity",
+    "Group": "Advanced Boot, UEFI & Firmware Security",
+    "Adapter": "Native",
+    "Path": "Modules/32-advanced-boot-uefi-firmware-security/368-baseboard-identity.ps1"
+  },
+  {
+    "Id": 369,
+    "Name": "Boot Manager BCD Inventory",
+    "Group": "Advanced Boot, UEFI & Firmware Security",
+    "Adapter": "Native",
+    "Path": "Modules/32-advanced-boot-uefi-firmware-security/369-boot-manager-bcd-inventory.ps1"
+  },
+  {
+    "Id": 370,
+    "Name": "Firmware BCD Entry Inventory",
+    "Group": "Advanced Boot, UEFI & Firmware Security",
+    "Adapter": "Native",
+    "Path": "Modules/32-advanced-boot-uefi-firmware-security/370-firmware-bcd-entry-inventory.ps1"
+  },
+  {
+    "Id": 371,
+    "Name": "BCD Recovery Configuration",
+    "Group": "Advanced Boot, UEFI & Firmware Security",
+    "Adapter": "Native",
+    "Path": "Modules/32-advanced-boot-uefi-firmware-security/371-bcd-recovery-configuration.ps1"
+  },
+  {
+    "Id": 372,
+    "Name": "Windows Recovery Environment Status",
+    "Group": "Advanced Boot, UEFI & Firmware Security",
+    "Adapter": "Native",
+    "Path": "Modules/32-advanced-boot-uefi-firmware-security/372-windows-recovery-environment-status.ps1"
+  },
+  {
+    "Id": 373,
+    "Name": "CPU Virtualization Firmware Capability",
+    "Group": "Advanced Boot, UEFI & Firmware Security",
+    "Adapter": "Native",
+    "Path": "Modules/32-advanced-boot-uefi-firmware-security/373-cpu-virtualization-firmware-capability.ps1"
+  },
+  {
+    "Id": 374,
+    "Name": "Hypervisor Presence Cross-Check",
+    "Group": "Advanced Boot, UEFI & Firmware Security",
+    "Adapter": "Native",
+    "Path": "Modules/32-advanced-boot-uefi-firmware-security/374-hypervisor-presence-cross-check.ps1"
+  },
+  {
+    "Id": 375,
+    "Name": "Kernel Boot Event Summary",
+    "Group": "Advanced Boot, UEFI & Firmware Security",
+    "Adapter": "Native",
+    "Path": "Modules/32-advanced-boot-uefi-firmware-security/375-kernel-boot-event-summary.ps1"
+  },
+  {
+    "Id": 376,
+    "Name": "Kernel General Event Summary",
+    "Group": "Advanced Boot, UEFI & Firmware Security",
+    "Adapter": "Native",
+    "Path": "Modules/32-advanced-boot-uefi-firmware-security/376-kernel-general-event-summary.ps1"
+  },
+  {
+    "Id": 377,
+    "Name": "Boot Configuration Security Flags",
+    "Group": "Advanced Boot, UEFI & Firmware Security",
+    "Adapter": "Native",
+    "Path": "Modules/32-advanced-boot-uefi-firmware-security/377-boot-configuration-security-flags.ps1"
+  },
+  {
+    "Id": 378,
+    "Name": "Kernel DMA Policy Snapshot",
+    "Group": "Advanced Boot, UEFI & Firmware Security",
+    "Adapter": "Native",
+    "Path": "Modules/32-advanced-boot-uefi-firmware-security/378-kernel-dma-policy-snapshot.ps1"
+  },
+  {
+    "Id": 379,
+    "Name": "System Guard Policy Snapshot",
+    "Group": "Advanced Boot, UEFI & Firmware Security",
+    "Adapter": "Native",
+    "Path": "Modules/32-advanced-boot-uefi-firmware-security/379-system-guard-policy-snapshot.ps1"
+  },
+  {
+    "Id": 380,
+    "Name": "Boot Operational Channel Health",
+    "Group": "Advanced Boot, UEFI & Firmware Security",
+    "Adapter": "Native",
+    "Path": "Modules/32-advanced-boot-uefi-firmware-security/380-boot-operational-channel-health.ps1"
+  },
+  {
+    "Id": 381,
+    "Name": "Physical Disk Media and Health Inventory",
+    "Group": "Storage & File-System Internals",
+    "Adapter": "Native",
+    "Path": "Modules/33-storage-file-system-internals/381-physical-disk-media-and-health-inventory.ps1"
+  },
+  {
+    "Id": 382,
+    "Name": "Storage Reliability Counters",
+    "Group": "Storage & File-System Internals",
+    "Adapter": "Native",
+    "Path": "Modules/33-storage-file-system-internals/382-storage-reliability-counters.ps1"
+  },
+  {
+    "Id": 383,
+    "Name": "Disk Sector Size and Geometry",
+    "Group": "Storage & File-System Internals",
+    "Adapter": "Native",
+    "Path": "Modules/33-storage-file-system-internals/383-disk-sector-size-and-geometry.ps1"
+  },
+  {
+    "Id": 384,
+    "Name": "Partition Alignment Analyzer",
+    "Group": "Storage & File-System Internals",
+    "Adapter": "Native",
+    "Path": "Modules/33-storage-file-system-internals/384-partition-alignment-analyzer.ps1"
+  },
+  {
+    "Id": 385,
+    "Name": "Volume Allocation Unit Inventory",
+    "Group": "Storage & File-System Internals",
+    "Adapter": "Native",
+    "Path": "Modules/33-storage-file-system-internals/385-volume-allocation-unit-inventory.ps1"
+  },
+  {
+    "Id": 386,
+    "Name": "NTFS TRIM and Delete Notification",
+    "Group": "Storage & File-System Internals",
+    "Adapter": "Native",
+    "Path": "Modules/33-storage-file-system-internals/386-ntfs-trim-and-delete-notification.ps1"
+  },
+  {
+    "Id": 387,
+    "Name": "NTFS Last Access Timestamp Policy",
+    "Group": "Storage & File-System Internals",
+    "Adapter": "Native",
+    "Path": "Modules/33-storage-file-system-internals/387-ntfs-last-access-timestamp-policy.ps1"
+  },
+  {
+    "Id": 388,
+    "Name": "NTFS 8dot3 Name Creation State",
+    "Group": "Storage & File-System Internals",
+    "Adapter": "Native",
+    "Path": "Modules/33-storage-file-system-internals/388-ntfs-8dot3-name-creation-state.ps1"
+  },
+  {
+    "Id": 389,
+    "Name": "NTFS Compression Behavior",
+    "Group": "Storage & File-System Internals",
+    "Adapter": "Native",
+    "Path": "Modules/33-storage-file-system-internals/389-ntfs-compression-behavior.ps1"
+  },
+  {
+    "Id": 390,
+    "Name": "NTFS Symlink Evaluation Policy",
+    "Group": "Storage & File-System Internals",
+    "Adapter": "Native",
+    "Path": "Modules/33-storage-file-system-internals/390-ntfs-symlink-evaluation-policy.ps1"
+  },
+  {
+    "Id": 391,
+    "Name": "Mount Point and Access Path Inventory",
+    "Group": "Storage & File-System Internals",
+    "Adapter": "Native",
+    "Path": "Modules/33-storage-file-system-internals/391-mount-point-and-access-path-inventory.ps1"
+  },
+  {
+    "Id": 392,
+    "Name": "Storage Spaces Pool Health",
+    "Group": "Storage & File-System Internals",
+    "Adapter": "Native",
+    "Path": "Modules/33-storage-file-system-internals/392-storage-spaces-pool-health.ps1"
+  },
+  {
+    "Id": 393,
+    "Name": "Storage Spaces Virtual Disk Health",
+    "Group": "Storage & File-System Internals",
+    "Adapter": "Native",
+    "Path": "Modules/33-storage-file-system-internals/393-storage-spaces-virtual-disk-health.ps1"
+  },
+  {
+    "Id": 394,
+    "Name": "ReFS Volume Inventory",
+    "Group": "Storage & File-System Internals",
+    "Adapter": "Native",
+    "Path": "Modules/33-storage-file-system-internals/394-refs-volume-inventory.ps1"
+  },
+  {
+    "Id": 395,
+    "Name": "Data Deduplication Status",
+    "Group": "Storage & File-System Internals",
+    "Adapter": "Native",
+    "Path": "Modules/33-storage-file-system-internals/395-data-deduplication-status.ps1"
+  },
+  {
+    "Id": 396,
+    "Name": "BitLocker Volume Metadata Snapshot",
+    "Group": "Storage & File-System Internals",
+    "Adapter": "Native",
+    "Path": "Modules/33-storage-file-system-internals/396-bitlocker-volume-metadata-snapshot.ps1"
+  },
+  {
+    "Id": 397,
+    "Name": "VSS Shadow Copy Inventory",
+    "Group": "Storage & File-System Internals",
+    "Adapter": "Native",
+    "Path": "Modules/33-storage-file-system-internals/397-vss-shadow-copy-inventory.ps1"
+  },
+  {
+    "Id": 398,
+    "Name": "VSS Shadow Storage Inventory",
+    "Group": "Storage & File-System Internals",
+    "Adapter": "Native",
+    "Path": "Modules/33-storage-file-system-internals/398-vss-shadow-storage-inventory.ps1"
+  },
+  {
+    "Id": 399,
+    "Name": "File System Behavior Policy Snapshot",
+    "Group": "Storage & File-System Internals",
+    "Adapter": "Native",
+    "Path": "Modules/33-storage-file-system-internals/399-file-system-behavior-policy-snapshot.ps1"
+  },
+  {
+    "Id": 400,
+    "Name": "Storage Posture Summary",
+    "Group": "Storage & File-System Internals",
+    "Adapter": "Native",
+    "Path": "Modules/33-storage-file-system-internals/400-storage-posture-summary.ps1"
+  },
+  {
+    "Id": 401,
+    "Name": "Application Identity Service Health",
+    "Group": "Application Control & Code Integrity",
+    "Adapter": "Native",
+    "Path": "Modules/34-application-control-code-integrity/401-application-identity-service-health.ps1"
+  },
+  {
+    "Id": 402,
+    "Name": "AppLocker Effective Policy Summary",
+    "Group": "Application Control & Code Integrity",
+    "Adapter": "Native",
+    "Path": "Modules/34-application-control-code-integrity/402-applocker-effective-policy-summary.ps1"
+  },
+  {
+    "Id": 403,
+    "Name": "AppLocker Executable Rules",
+    "Group": "Application Control & Code Integrity",
+    "Adapter": "Native",
+    "Path": "Modules/34-application-control-code-integrity/403-applocker-executable-rules.ps1"
+  },
+  {
+    "Id": 404,
+    "Name": "AppLocker Windows Installer Rules",
+    "Group": "Application Control & Code Integrity",
+    "Adapter": "Native",
+    "Path": "Modules/34-application-control-code-integrity/404-applocker-windows-installer-rules.ps1"
+  },
+  {
+    "Id": 405,
+    "Name": "AppLocker Script Rules",
+    "Group": "Application Control & Code Integrity",
+    "Adapter": "Native",
+    "Path": "Modules/34-application-control-code-integrity/405-applocker-script-rules.ps1"
+  },
+  {
+    "Id": 406,
+    "Name": "AppLocker DLL Rules",
+    "Group": "Application Control & Code Integrity",
+    "Adapter": "Native",
+    "Path": "Modules/34-application-control-code-integrity/406-applocker-dll-rules.ps1"
+  },
+  {
+    "Id": 407,
+    "Name": "AppLocker Packaged App Rules",
+    "Group": "Application Control & Code Integrity",
+    "Adapter": "Native",
+    "Path": "Modules/34-application-control-code-integrity/407-applocker-packaged-app-rules.ps1"
+  },
+  {
+    "Id": 408,
+    "Name": "WDAC Active Policy File Inventory",
+    "Group": "Application Control & Code Integrity",
+    "Adapter": "Native",
+    "Path": "Modules/34-application-control-code-integrity/408-wdac-active-policy-file-inventory.ps1"
+  },
+  {
+    "Id": 409,
+    "Name": "WDAC Legacy SIPolicy File State",
+    "Group": "Application Control & Code Integrity",
+    "Adapter": "Native",
+    "Path": "Modules/34-application-control-code-integrity/409-wdac-legacy-sipolicy-file-state.ps1"
+  },
+  {
+    "Id": 410,
+    "Name": "Code Integrity Operational Error Summary",
+    "Group": "Application Control & Code Integrity",
+    "Adapter": "Native",
+    "Path": "Modules/34-application-control-code-integrity/410-code-integrity-operational-error-summary.ps1"
+  },
+  {
+    "Id": 411,
+    "Name": "Device Guard Code Integrity Enforcement State",
+    "Group": "Application Control & Code Integrity",
+    "Adapter": "Native",
+    "Path": "Modules/34-application-control-code-integrity/411-device-guard-code-integrity-enforcement-state.ps1"
+  },
+  {
+    "Id": 412,
+    "Name": "Smart App Control Policy Indicators",
+    "Group": "Application Control & Code Integrity",
+    "Adapter": "Native",
+    "Path": "Modules/34-application-control-code-integrity/412-smart-app-control-policy-indicators.ps1"
+  },
+  {
+    "Id": 413,
+    "Name": "PowerShell Execution Policy Scopes",
+    "Group": "Application Control & Code Integrity",
+    "Adapter": "Native",
+    "Path": "Modules/34-application-control-code-integrity/413-powershell-execution-policy-scopes.ps1"
+  },
+  {
+    "Id": 414,
+    "Name": "PowerShell Language Mode",
+    "Group": "Application Control & Code Integrity",
+    "Adapter": "Native",
+    "Path": "Modules/34-application-control-code-integrity/414-powershell-language-mode.ps1"
+  },
+  {
+    "Id": 415,
+    "Name": "PowerShell Script Block Logging Policy",
+    "Group": "Application Control & Code Integrity",
+    "Adapter": "Native",
+    "Path": "Modules/34-application-control-code-integrity/415-powershell-script-block-logging-policy.ps1"
+  },
+  {
+    "Id": 416,
+    "Name": "PowerShell Module Logging Policy",
+    "Group": "Application Control & Code Integrity",
+    "Adapter": "Native",
+    "Path": "Modules/34-application-control-code-integrity/416-powershell-module-logging-policy.ps1"
+  },
+  {
+    "Id": 417,
+    "Name": "PowerShell Transcription Policy",
+    "Group": "Application Control & Code Integrity",
+    "Adapter": "Native",
+    "Path": "Modules/34-application-control-code-integrity/417-powershell-transcription-policy.ps1"
+  },
+  {
+    "Id": 418,
+    "Name": "AlwaysInstallElevated Policy",
+    "Group": "Application Control & Code Integrity",
+    "Adapter": "Native",
+    "Path": "Modules/34-application-control-code-integrity/418-alwaysinstallelevated-policy.ps1"
+  },
+  {
+    "Id": 419,
+    "Name": "Windows Installer DisableMSI Policy",
+    "Group": "Application Control & Code Integrity",
+    "Adapter": "Native",
+    "Path": "Modules/34-application-control-code-integrity/419-windows-installer-disablemsi-policy.ps1"
+  },
+  {
+    "Id": 420,
+    "Name": "Windows Script Host Policy",
+    "Group": "Application Control & Code Integrity",
+    "Adapter": "Native",
+    "Path": "Modules/34-application-control-code-integrity/420-windows-script-host-policy.ps1"
+  },
+  {
+    "Id": 421,
+    "Name": "Services Running as LocalSystem",
+    "Group": "Services & Scheduled Tasks Deep Analysis",
+    "Adapter": "Native",
+    "Path": "Modules/35-services-scheduled-tasks-deep-analysis/421-services-running-as-localsystem.ps1"
+  },
+  {
+    "Id": 422,
+    "Name": "Services Using Custom Accounts",
+    "Group": "Services & Scheduled Tasks Deep Analysis",
+    "Adapter": "Native",
+    "Path": "Modules/35-services-scheduled-tasks-deep-analysis/422-services-using-custom-accounts.ps1"
+  },
+  {
+    "Id": 423,
+    "Name": "Automatic Services Currently Stopped",
+    "Group": "Services & Scheduled Tasks Deep Analysis",
+    "Adapter": "Native",
+    "Path": "Modules/35-services-scheduled-tasks-deep-analysis/423-automatic-services-currently-stopped.ps1"
+  },
+  {
+    "Id": 424,
+    "Name": "Service Failure Action Configuration",
+    "Group": "Services & Scheduled Tasks Deep Analysis",
+    "Adapter": "Native",
+    "Path": "Modules/35-services-scheduled-tasks-deep-analysis/424-service-failure-action-configuration.ps1"
+  },
+  {
+    "Id": 425,
+    "Name": "Service Trigger Configuration Inventory",
+    "Group": "Services & Scheduled Tasks Deep Analysis",
+    "Adapter": "Native",
+    "Path": "Modules/35-services-scheduled-tasks-deep-analysis/425-service-trigger-configuration-inventory.ps1"
+  },
+  {
+    "Id": 426,
+    "Name": "Service Dependency Inventory",
+    "Group": "Services & Scheduled Tasks Deep Analysis",
+    "Adapter": "Native",
+    "Path": "Modules/35-services-scheduled-tasks-deep-analysis/426-service-dependency-inventory.ps1"
+  },
+  {
+    "Id": 427,
+    "Name": "Svchost Group Configuration",
+    "Group": "Services & Scheduled Tasks Deep Analysis",
+    "Adapter": "Native",
+    "Path": "Modules/35-services-scheduled-tasks-deep-analysis/427-svchost-group-configuration.ps1"
+  },
+  {
+    "Id": 428,
+    "Name": "Per-User Service Template Inventory",
+    "Group": "Services & Scheduled Tasks Deep Analysis",
+    "Adapter": "Native",
+    "Path": "Modules/35-services-scheduled-tasks-deep-analysis/428-per-user-service-template-inventory.ps1"
+  },
+  {
+    "Id": 429,
+    "Name": "Unquoted Service Path Analyzer",
+    "Group": "Services & Scheduled Tasks Deep Analysis",
+    "Adapter": "Native",
+    "Path": "Modules/35-services-scheduled-tasks-deep-analysis/429-unquoted-service-path-analyzer.ps1"
+  },
+  {
+    "Id": 430,
+    "Name": "Third-Party Service Binary Signature Review",
+    "Group": "Services & Scheduled Tasks Deep Analysis",
+    "Adapter": "Native",
+    "Path": "Modules/35-services-scheduled-tasks-deep-analysis/430-third-party-service-binary-signature-review.ps1"
+  },
+  {
+    "Id": 431,
+    "Name": "Scheduled Tasks Running as SYSTEM",
+    "Group": "Services & Scheduled Tasks Deep Analysis",
+    "Adapter": "Native",
+    "Path": "Modules/35-services-scheduled-tasks-deep-analysis/431-scheduled-tasks-running-as-system.ps1"
+  },
+  {
+    "Id": 432,
+    "Name": "Scheduled Tasks Using Highest Run Level",
+    "Group": "Services & Scheduled Tasks Deep Analysis",
+    "Adapter": "Native",
+    "Path": "Modules/35-services-scheduled-tasks-deep-analysis/432-scheduled-tasks-using-highest-run-level.ps1"
+  },
+  {
+    "Id": 433,
+    "Name": "Hidden Scheduled Task Inventory",
+    "Group": "Services & Scheduled Tasks Deep Analysis",
+    "Adapter": "Native",
+    "Path": "Modules/35-services-scheduled-tasks-deep-analysis/433-hidden-scheduled-task-inventory.ps1"
+  },
+  {
+    "Id": 434,
+    "Name": "Disabled Scheduled Task Inventory",
+    "Group": "Services & Scheduled Tasks Deep Analysis",
+    "Adapter": "Native",
+    "Path": "Modules/35-services-scheduled-tasks-deep-analysis/434-disabled-scheduled-task-inventory.ps1"
+  },
+  {
+    "Id": 435,
+    "Name": "PowerShell Scheduled Task Actions",
+    "Group": "Services & Scheduled Tasks Deep Analysis",
+    "Adapter": "Native",
+    "Path": "Modules/35-services-scheduled-tasks-deep-analysis/435-powershell-scheduled-task-actions.ps1"
+  },
+  {
+    "Id": 436,
+    "Name": "Scheduled Task Missing Executable Actions",
+    "Group": "Services & Scheduled Tasks Deep Analysis",
+    "Adapter": "Native",
+    "Path": "Modules/35-services-scheduled-tasks-deep-analysis/436-scheduled-task-missing-executable-actions.ps1"
+  },
+  {
+    "Id": 437,
+    "Name": "Scheduled Task COM Handler Actions",
+    "Group": "Services & Scheduled Tasks Deep Analysis",
+    "Adapter": "Native",
+    "Path": "Modules/35-services-scheduled-tasks-deep-analysis/437-scheduled-task-com-handler-actions.ps1"
+  },
+  {
+    "Id": 438,
+    "Name": "Scheduled Task UNC Action Paths",
+    "Group": "Services & Scheduled Tasks Deep Analysis",
+    "Adapter": "Native",
+    "Path": "Modules/35-services-scheduled-tasks-deep-analysis/438-scheduled-task-unc-action-paths.ps1"
+  },
+  {
+    "Id": 439,
+    "Name": "Scheduled Task Principal Inventory",
+    "Group": "Services & Scheduled Tasks Deep Analysis",
+    "Adapter": "Native",
+    "Path": "Modules/35-services-scheduled-tasks-deep-analysis/439-scheduled-task-principal-inventory.ps1"
+  },
+  {
+    "Id": 440,
+    "Name": "Scheduled Task Failure Result Summary",
+    "Group": "Services & Scheduled Tasks Deep Analysis",
+    "Adapter": "Native",
+    "Path": "Modules/35-services-scheduled-tasks-deep-analysis/440-scheduled-task-failure-result-summary.ps1"
+  },
+  {
+    "Id": 441,
+    "Name": "Local Administrators Group Membership",
+    "Group": "Accounts, Rights & Enterprise Identity",
+    "Adapter": "Native",
+    "Path": "Modules/36-accounts-rights-enterprise-identity/441-local-administrators-group-membership.ps1"
+  },
+  {
+    "Id": 442,
+    "Name": "Remote Desktop Users Group Membership",
+    "Group": "Accounts, Rights & Enterprise Identity",
+    "Adapter": "Native",
+    "Path": "Modules/36-accounts-rights-enterprise-identity/442-remote-desktop-users-group-membership.ps1"
+  },
+  {
+    "Id": 443,
+    "Name": "Local Users Group Membership",
+    "Group": "Accounts, Rights & Enterprise Identity",
+    "Adapter": "Native",
+    "Path": "Modules/36-accounts-rights-enterprise-identity/443-local-users-group-membership.ps1"
+  },
+  {
+    "Id": 444,
+    "Name": "Disabled Local Account Inventory",
+    "Group": "Accounts, Rights & Enterprise Identity",
+    "Adapter": "Native",
+    "Path": "Modules/36-accounts-rights-enterprise-identity/444-disabled-local-account-inventory.ps1"
+  },
+  {
+    "Id": 445,
+    "Name": "Password Never Expires Local Accounts",
+    "Group": "Accounts, Rights & Enterprise Identity",
+    "Adapter": "Native",
+    "Path": "Modules/36-accounts-rights-enterprise-identity/445-password-never-expires-local-accounts.ps1"
+  },
+  {
+    "Id": 446,
+    "Name": "Password Not Required Local Accounts",
+    "Group": "Accounts, Rights & Enterprise Identity",
+    "Adapter": "Native",
+    "Path": "Modules/36-accounts-rights-enterprise-identity/446-password-not-required-local-accounts.ps1"
+  },
+  {
+    "Id": 447,
+    "Name": "Dormant Local Account Review",
+    "Group": "Accounts, Rights & Enterprise Identity",
+    "Adapter": "Native",
+    "Path": "Modules/36-accounts-rights-enterprise-identity/447-dormant-local-account-review.ps1"
+  },
+  {
+    "Id": 448,
+    "Name": "Orphaned User Profile SID Cross-Check",
+    "Group": "Accounts, Rights & Enterprise Identity",
+    "Adapter": "Native",
+    "Path": "Modules/36-accounts-rights-enterprise-identity/448-orphaned-user-profile-sid-cross-check.ps1"
+  },
+  {
+    "Id": 449,
+    "Name": "User Rights Assignment Export",
+    "Group": "Accounts, Rights & Enterprise Identity",
+    "Adapter": "Native",
+    "Path": "Modules/36-accounts-rights-enterprise-identity/449-user-rights-assignment-export.ps1"
+  },
+  {
+    "Id": 450,
+    "Name": "Local Password and Lockout Policy Summary",
+    "Group": "Accounts, Rights & Enterprise Identity",
+    "Adapter": "Native",
+    "Path": "Modules/36-accounts-rights-enterprise-identity/450-local-password-and-lockout-policy-summary.ps1"
+  },
+  {
+    "Id": 451,
+    "Name": "Local Guests Group Membership",
+    "Group": "Accounts, Rights & Enterprise Identity",
+    "Adapter": "Native",
+    "Path": "Modules/36-accounts-rights-enterprise-identity/451-local-guests-group-membership.ps1"
+  },
+  {
+    "Id": 452,
+    "Name": "Hyper-V Administrators Group Membership",
+    "Group": "Accounts, Rights & Enterprise Identity",
+    "Adapter": "Native",
+    "Path": "Modules/36-accounts-rights-enterprise-identity/452-hyper-v-administrators-group-membership.ps1"
+  },
+  {
+    "Id": 453,
+    "Name": "Backup Operators Group Membership",
+    "Group": "Accounts, Rights & Enterprise Identity",
+    "Adapter": "Native",
+    "Path": "Modules/36-accounts-rights-enterprise-identity/453-backup-operators-group-membership.ps1"
+  },
+  {
+    "Id": 454,
+    "Name": "Event Log Readers Group Membership",
+    "Group": "Accounts, Rights & Enterprise Identity",
+    "Adapter": "Native",
+    "Path": "Modules/36-accounts-rights-enterprise-identity/454-event-log-readers-group-membership.ps1"
+  },
+  {
+    "Id": 455,
+    "Name": "Performance Log Users Group Membership",
+    "Group": "Accounts, Rights & Enterprise Identity",
+    "Adapter": "Native",
+    "Path": "Modules/36-accounts-rights-enterprise-identity/455-performance-log-users-group-membership.ps1"
+  },
+  {
+    "Id": 456,
+    "Name": "Remote Management Users Group Membership",
+    "Group": "Accounts, Rights & Enterprise Identity",
+    "Adapter": "Native",
+    "Path": "Modules/36-accounts-rights-enterprise-identity/456-remote-management-users-group-membership.ps1"
+  },
+  {
+    "Id": 457,
+    "Name": "Local Account Lockout State",
+    "Group": "Accounts, Rights & Enterprise Identity",
+    "Adapter": "Native",
+    "Path": "Modules/36-accounts-rights-enterprise-identity/457-local-account-lockout-state.ps1"
+  },
+  {
+    "Id": 458,
+    "Name": "Local Account Password Age Snapshot",
+    "Group": "Accounts, Rights & Enterprise Identity",
+    "Adapter": "Native",
+    "Path": "Modules/36-accounts-rights-enterprise-identity/458-local-account-password-age-snapshot.ps1"
+  },
+  {
+    "Id": 459,
+    "Name": "Microsoft Entra Join and Registration Status",
+    "Group": "Accounts, Rights & Enterprise Identity",
+    "Adapter": "Native",
+    "Path": "Modules/36-accounts-rights-enterprise-identity/459-microsoft-entra-join-and-registration-status.ps1"
+  },
+  {
+    "Id": 460,
+    "Name": "MDM Device Management Posture",
+    "Group": "Accounts, Rights & Enterprise Identity",
+    "Adapter": "Native",
+    "Path": "Modules/36-accounts-rights-enterprise-identity/460-mdm-device-management-posture.ps1"
+  },
+  {
+    "Id": 461,
+    "Name": "PowerShell Operational Error Summary",
+    "Group": "Advanced Event Channels & Reliability",
+    "Adapter": "Native",
+    "Path": "Modules/37-advanced-event-channels-reliability/461-powershell-operational-error-summary.ps1"
+  },
+  {
+    "Id": 462,
+    "Name": "WMI Activity Operational Error Summary",
+    "Group": "Advanced Event Channels & Reliability",
+    "Adapter": "Native",
+    "Path": "Modules/37-advanced-event-channels-reliability/462-wmi-activity-operational-error-summary.ps1"
+  },
+  {
+    "Id": 463,
+    "Name": "Task Scheduler Operational Error Summary",
+    "Group": "Advanced Event Channels & Reliability",
+    "Adapter": "Native",
+    "Path": "Modules/37-advanced-event-channels-reliability/463-task-scheduler-operational-error-summary.ps1"
+  },
+  {
+    "Id": 464,
+    "Name": "AppLocker EXE and DLL Event Summary",
+    "Group": "Advanced Event Channels & Reliability",
+    "Adapter": "Native",
+    "Path": "Modules/37-advanced-event-channels-reliability/464-applocker-exe-and-dll-event-summary.ps1"
+  },
+  {
+    "Id": 465,
+    "Name": "AppLocker MSI and Script Event Summary",
+    "Group": "Advanced Event Channels & Reliability",
+    "Adapter": "Native",
+    "Path": "Modules/37-advanced-event-channels-reliability/465-applocker-msi-and-script-event-summary.ps1"
+  },
+  {
+    "Id": 466,
+    "Name": "AppLocker Packaged App Event Summary",
+    "Group": "Advanced Event Channels & Reliability",
+    "Adapter": "Native",
+    "Path": "Modules/37-advanced-event-channels-reliability/466-applocker-packaged-app-event-summary.ps1"
+  },
+  {
+    "Id": 467,
+    "Name": "Code Integrity Operational Event Summary",
+    "Group": "Advanced Event Channels & Reliability",
+    "Adapter": "Native",
+    "Path": "Modules/37-advanced-event-channels-reliability/467-code-integrity-operational-event-summary.ps1"
+  },
+  {
+    "Id": 468,
+    "Name": "Device Guard Operational Event Summary",
+    "Group": "Advanced Event Channels & Reliability",
+    "Adapter": "Native",
+    "Path": "Modules/37-advanced-event-channels-reliability/468-device-guard-operational-event-summary.ps1"
+  },
+  {
+    "Id": 469,
+    "Name": "Defender Operational Error Summary",
+    "Group": "Advanced Event Channels & Reliability",
+    "Adapter": "Native",
+    "Path": "Modules/37-advanced-event-channels-reliability/469-defender-operational-error-summary.ps1"
+  },
+  {
+    "Id": 470,
+    "Name": "Windows Firewall Operational Event Summary",
+    "Group": "Advanced Event Channels & Reliability",
+    "Adapter": "Native",
+    "Path": "Modules/37-advanced-event-channels-reliability/470-windows-firewall-operational-event-summary.ps1"
+  },
+  {
+    "Id": 471,
+    "Name": "RDP Local Session Manager Events",
+    "Group": "Advanced Event Channels & Reliability",
+    "Adapter": "Native",
+    "Path": "Modules/37-advanced-event-channels-reliability/471-rdp-local-session-manager-events.ps1"
+  },
+  {
+    "Id": 472,
+    "Name": "RDP Remote Connection Manager Events",
+    "Group": "Advanced Event Channels & Reliability",
+    "Adapter": "Native",
+    "Path": "Modules/37-advanced-event-channels-reliability/472-rdp-remote-connection-manager-events.ps1"
+  },
+  {
+    "Id": 473,
+    "Name": "RDP Client ActiveXCore Events",
+    "Group": "Advanced Event Channels & Reliability",
+    "Adapter": "Native",
+    "Path": "Modules/37-advanced-event-channels-reliability/473-rdp-client-activexcore-events.ps1"
+  },
+  {
+    "Id": 474,
+    "Name": "Kernel Power Critical Event Summary",
+    "Group": "Advanced Event Channels & Reliability",
+    "Adapter": "Native",
+    "Path": "Modules/37-advanced-event-channels-reliability/474-kernel-power-critical-event-summary.ps1"
+  },
+  {
+    "Id": 475,
+    "Name": "Disk Provider Error Summary",
+    "Group": "Advanced Event Channels & Reliability",
+    "Adapter": "Native",
+    "Path": "Modules/37-advanced-event-channels-reliability/475-disk-provider-error-summary.ps1"
+  },
+  {
+    "Id": 476,
+    "Name": "NTFS Error Event Summary",
+    "Group": "Advanced Event Channels & Reliability",
+    "Adapter": "Native",
+    "Path": "Modules/37-advanced-event-channels-reliability/476-ntfs-error-event-summary.ps1"
+  },
+  {
+    "Id": 477,
+    "Name": "Storage Stack Error Event Summary",
+    "Group": "Advanced Event Channels & Reliability",
+    "Adapter": "Native",
+    "Path": "Modules/37-advanced-event-channels-reliability/477-storage-stack-error-event-summary.ps1"
+  },
+  {
+    "Id": 478,
+    "Name": "WHEA Hardware Error Event Summary",
+    "Group": "Advanced Event Channels & Reliability",
+    "Adapter": "Native",
+    "Path": "Modules/37-advanced-event-channels-reliability/478-whea-hardware-error-event-summary.ps1"
+  },
+  {
+    "Id": 479,
+    "Name": "Reliability Monitor Failure Records",
+    "Group": "Advanced Event Channels & Reliability",
+    "Adapter": "Native",
+    "Path": "Modules/37-advanced-event-channels-reliability/479-reliability-monitor-failure-records.ps1"
+  },
+  {
+    "Id": 480,
+    "Name": "Event Log Capacity and Retention Summary",
+    "Group": "Advanced Event Channels & Reliability",
+    "Adapter": "Native",
+    "Path": "Modules/37-advanced-event-channels-reliability/480-event-log-capacity-and-retention-summary.ps1"
+  },
+  {
+    "Id": 481,
+    "Name": "Windows Recall Policy Snapshot",
+    "Group": "Windows UX, AI, Privacy & Platform Features",
+    "Adapter": "Native",
+    "Path": "Modules/38-windows-ux-ai-privacy-platform-features/481-windows-recall-policy-snapshot.ps1"
+  },
+  {
+    "Id": 482,
+    "Name": "Windows Copilot Policy Snapshot",
+    "Group": "Windows UX, AI, Privacy & Platform Features",
+    "Adapter": "Native",
+    "Path": "Modules/38-windows-ux-ai-privacy-platform-features/482-windows-copilot-policy-snapshot.ps1"
+  },
+  {
+    "Id": 483,
+    "Name": "Widgets and Web Experience Package Status",
+    "Group": "Windows UX, AI, Privacy & Platform Features",
+    "Adapter": "Native",
+    "Path": "Modules/38-windows-ux-ai-privacy-platform-features/483-widgets-and-web-experience-package-status.ps1"
+  },
+  {
+    "Id": 484,
+    "Name": "Windows Spotlight and Cloud Content Policy",
+    "Group": "Windows UX, AI, Privacy & Platform Features",
+    "Adapter": "Native",
+    "Path": "Modules/38-windows-ux-ai-privacy-platform-features/484-windows-spotlight-and-cloud-content-policy.ps1"
+  },
+  {
+    "Id": 485,
+    "Name": "Windows Search Service and Index State",
+    "Group": "Windows UX, AI, Privacy & Platform Features",
+    "Adapter": "Native",
+    "Path": "Modules/38-windows-ux-ai-privacy-platform-features/485-windows-search-service-and-index-state.ps1"
+  },
+  {
+    "Id": 486,
+    "Name": "Search and Cloud Suggestions Policy",
+    "Group": "Windows UX, AI, Privacy & Platform Features",
+    "Adapter": "Native",
+    "Path": "Modules/38-windows-ux-ai-privacy-platform-features/486-search-and-cloud-suggestions-policy.ps1"
+  },
+  {
+    "Id": 487,
+    "Name": "Notification and Action Center Policy",
+    "Group": "Windows UX, AI, Privacy & Platform Features",
+    "Adapter": "Native",
+    "Path": "Modules/38-windows-ux-ai-privacy-platform-features/487-notification-and-action-center-policy.ps1"
+  },
+  {
+    "Id": 488,
+    "Name": "Clipboard History and Cloud Sync Policy",
+    "Group": "Windows UX, AI, Privacy & Platform Features",
+    "Adapter": "Native",
+    "Path": "Modules/38-windows-ux-ai-privacy-platform-features/488-clipboard-history-and-cloud-sync-policy.ps1"
+  },
+  {
+    "Id": 489,
+    "Name": "Activity History Policy",
+    "Group": "Windows UX, AI, Privacy & Platform Features",
+    "Adapter": "Native",
+    "Path": "Modules/38-windows-ux-ai-privacy-platform-features/489-activity-history-policy.ps1"
+  },
+  {
+    "Id": 490,
+    "Name": "Location Service and Policy Summary",
+    "Group": "Windows UX, AI, Privacy & Platform Features",
+    "Adapter": "Native",
+    "Path": "Modules/38-windows-ux-ai-privacy-platform-features/490-location-service-and-policy-summary.ps1"
+  },
+  {
+    "Id": 491,
+    "Name": "Camera Capability Consent Summary",
+    "Group": "Windows UX, AI, Privacy & Platform Features",
+    "Adapter": "Native",
+    "Path": "Modules/38-windows-ux-ai-privacy-platform-features/491-camera-capability-consent-summary.ps1"
+  },
+  {
+    "Id": 492,
+    "Name": "Microphone Capability Consent Summary",
+    "Group": "Windows UX, AI, Privacy & Platform Features",
+    "Adapter": "Native",
+    "Path": "Modules/38-windows-ux-ai-privacy-platform-features/492-microphone-capability-consent-summary.ps1"
+  },
+  {
+    "Id": 493,
+    "Name": "Contacts Capability Consent Summary",
+    "Group": "Windows UX, AI, Privacy & Platform Features",
+    "Adapter": "Native",
+    "Path": "Modules/38-windows-ux-ai-privacy-platform-features/493-contacts-capability-consent-summary.ps1"
+  },
+  {
+    "Id": 494,
+    "Name": "Background Application Policy",
+    "Group": "Windows UX, AI, Privacy & Platform Features",
+    "Adapter": "Native",
+    "Path": "Modules/38-windows-ux-ai-privacy-platform-features/494-background-application-policy.ps1"
+  },
+  {
+    "Id": 495,
+    "Name": "Diagnostic Data and Telemetry Policy",
+    "Group": "Windows UX, AI, Privacy & Platform Features",
+    "Adapter": "Native",
+    "Path": "Modules/38-windows-ux-ai-privacy-platform-features/495-diagnostic-data-and-telemetry-policy.ps1"
+  },
+  {
+    "Id": 496,
+    "Name": "Advertising ID Policy and User State",
+    "Group": "Windows UX, AI, Privacy & Platform Features",
+    "Adapter": "Native",
+    "Path": "Modules/38-windows-ux-ai-privacy-platform-features/496-advertising-id-policy-and-user-state.ps1"
+  },
+  {
+    "Id": 497,
+    "Name": "Tailored Experiences and Feedback Policy",
+    "Group": "Windows UX, AI, Privacy & Platform Features",
+    "Adapter": "Native",
+    "Path": "Modules/38-windows-ux-ai-privacy-platform-features/497-tailored-experiences-and-feedback-policy.ps1"
+  },
+  {
+    "Id": 498,
+    "Name": "Windows Hello and Sign-in Policy Summary",
+    "Group": "Windows UX, AI, Privacy & Platform Features",
+    "Adapter": "Native",
+    "Path": "Modules/38-windows-ux-ai-privacy-platform-features/498-windows-hello-and-sign-in-policy-summary.ps1"
+  },
+  {
+    "Id": 499,
+    "Name": "Accessibility Feature State Snapshot",
+    "Group": "Windows UX, AI, Privacy & Platform Features",
+    "Adapter": "Native",
+    "Path": "Modules/38-windows-ux-ai-privacy-platform-features/499-accessibility-feature-state-snapshot.ps1"
+  },
+  {
+    "Id": 500,
+    "Name": "Modern Windows Platform Feature Summary",
+    "Group": "Windows UX, AI, Privacy & Platform Features",
+    "Adapter": "Native",
+    "Path": "Modules/38-windows-ux-ai-privacy-platform-features/500-modern-windows-platform-feature-summary.ps1"
+  }
+]

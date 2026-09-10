@@ -1,0 +1,80 @@
+{
+  "Product": "WinScope 11",
+  "Version": "3.2.8",
+  "Edition": "QA Hardened Safe Audit - Safe Property Access",
+  "ActiveModules": 500,
+  "ModuleIdsPreserved": true,
+  "MainGroups": 8,
+  "SubGroups": 25,
+  "LeafGroups": 38,
+  "HierarchyReporting": {
+    "Enabled": true,
+    "Levels": [
+      "MainGroup",
+      "SubGroup",
+      "LeafGroup"
+    ],
+    "Formats": [
+      "CSV",
+      "JSON",
+      "TXT",
+      "HTML"
+    ]
+  },
+  "Module460CleanHotfixPreserved": true,
+  "StaticValidation": "PASS",
+  "AuditCompatBootstrapPath": "AuditCompat\\WinScope.AuditCompat300.psm1",
+  "V310LegacyPathBugFixed": true,
+  "InteractiveNavigation": {
+    "MainGroups": "local numbers 1..N",
+    "SubGroups": "local numbers 1..N",
+    "LeafGroups": "local numbers 1..N",
+    "Modules": "real IDs 1..500",
+    "CanonicalGCodesRequired": false
+  },
+  "ExeCliContractDraft": "Docs/EXE_CLI_CONTRACT.md",
+  "QA": {
+    "BuilderSide": "PASS",
+    "PowerShellSourceFilesChecked": 508,
+    "StartupParserPreflight": true,
+    "ValidateCommand": true,
+    "AuditCompatRebuilt": true,
+    "DispatcherCases": 300,
+    "ModuleDescriptors": 500,
+    "CliArgumentBinding": "PASS",
+    "UnquotedCommaList": true,
+    "QuotedCommaList": true,
+    "EngineResultContract": "HARDENED",
+    "PowerShell51GenericObjectListBoundary": "REMOVED",
+    "CoreRuntimeContractTest": "Tests/Test-CoreRuntimeContracts.ps1",
+    "EmptyArrayRuntimeContract": "HARDENED",
+    "ResultCardinalityCases": [
+      "null",
+      "empty",
+      "single",
+      "multiple",
+      "failure"
+    ],
+    "PowerShell51ArraySafetyLint": "Tests/Test-PowerShell51ArraySafety.ps1",
+    "GenericListProductionGate": "ZERO_ALLOWED",
+    "AuditCompatCollections": "ARRAYLIST",
+    "AuditCompatCollectionContracts": "Tests/Test-AuditCompatCollectionContracts.ps1",
+    "LiveFailureError": true,
+    "AuditCompatWrapper": "AuditCompat/WinScope.AuditCompat300.psm1",
+    "ModuleScopePersistence": "TESTED_ON_TARGET_BY_SUITE",
+    "EngineDirectCompatInternals": false,
+    "ModuleScopeContractTest": "Tests/Test-AuditCompatModuleScope.ps1",
+    "MeasureObjectSumGate": "ZERO_DIRECT_ACCESS",
+    "FilteredPositionalCallGate": "ZERO",
+    "EdgeCaseRuntimeTest": "Tests/Test-AuditCompatEdgeCases.ps1",
+    "EdgeSourceLint": "Tests/Test-AuditCompatEdgeSourceLint.ps1",
+    "OptionalRegistryPropertyGuard": "ENABLED",
+    "DotNetFrameworkInventorySchema": "HARDENED",
+    "PropertyRuntimeTest": "Tests/Test-AuditCompatPropertyAccess.ps1",
+    "PropertySourceLint": "Tests/Test-AuditCompatPropertySourceLint.ps1"
+  },
+  "Repository": "https://github.com/canerkocamaz/WinScope11",
+  "License": "MIT",
+  "AuditCompatImplementationPath": "AuditCompat\\WinScope.AuditCompat300.ps1",
+  "GitHubReadyDocumentation": true
+}

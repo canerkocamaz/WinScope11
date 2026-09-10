@@ -1,0 +1,29 @@
+{
+  "Product": "WinScope 11",
+  "Version": "3.2.1",
+  "Edition": "QA Hardened Safe Audit",
+  "BuilderSideValidation": "PASS",
+  "PowerShellSourceFilesChecked": 508,
+  "PowerShellStructuralIssues": 0,
+  "Modules": 500,
+  "AuditCompatModules": 300,
+  "NativeModules": 200,
+  "AuditCompatDispatcherCases": 300,
+  "NativeContextHelpersUsed": {
+    "CommandSnapshot": 18,
+    "EventSnapshot": 18,
+    "FolderFootprint": 2,
+    "NewFinding": 412,
+    "RegistrySnapshot": 30,
+    "ServiceSnapshot": 8
+  },
+  "HierarchySourceMappings": 38,
+  "MainGroups": 8,
+  "Module460CleanHotfixPreserved": true,
+  "AuditCompatBootstrapPathFixed": true,
+  "SafeAuditMutationGate": "PASS",
+  "WindowsRuntimeParserPreflight": "ENABLED_AT_STARTUP",
+  "ValidationCommand": ".\\WinScope11.ps1 validate",
+  "DedicatedValidationScript": ".\\Tests\\Run-WinScopeValidation.ps1",
+  "ImportantNote": "Builder-side structural checks cannot execute Windows-only cmdlets. The startup parser preflight uses the actual Windows PowerShell parser on the target machine before any module runs."
+}

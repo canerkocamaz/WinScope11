@@ -1,0 +1,51 @@
+# WinScope runtime output
+Reports/
+reports/
+Logs/
+logs/
+SupportBundles/
+*.log
+
+# Release/archive output
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+
+# Local environment / secrets / signing material
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.p8
+*.key
+*.pem
+*.cer
+*.crt
+secrets.json
+
+# PowerShell local artifacts
+*.clixml
+*.tmp
+*.bak
+*.old
+
+# .NET / IDE (future v4 launcher)
+bin/
+obj/
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Generated local test output
+TestResults/
+coverage/

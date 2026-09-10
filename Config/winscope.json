@@ -1,0 +1,100 @@
+{
+  "Application": {
+    "Name": "WinScope 11",
+    "Version": "3.2.8",
+    "ActiveModules": 500,
+    "TargetModules": 500,
+    "NativeModules": 200,
+    "Milestone": "500 Modules - Final Safe Audit",
+    "Edition": "QA Hardened Safe Audit - Safe Property Access",
+    "AuditCompatibilityModules": 300
+  },
+  "Reporting": {
+    "BaseDirectory": "%LOCALAPPDATA%\\WinScope11\\Reports",
+    "PerModuleJson": true,
+    "PerModuleText": true,
+    "CombinedCsv": true,
+    "CombinedJson": true,
+    "CombinedText": true,
+    "CombinedHtml": true,
+    "ReportEvenWhenNoFindings": true,
+    "HierarchyReports": true,
+    "HierarchyFormats": [
+      "CSV",
+      "JSON",
+      "TXT",
+      "HTML"
+    ]
+  },
+  "Safety": {
+    "AuditOnly": true,
+    "SystemMutationCommandsIncluded": false,
+    "CleanupActionsIncluded": false,
+    "RemediationActionsIncluded": false,
+    "SelectedRunsAreReportOnly": true,
+    "AllRunsAreReportOnly": true,
+    "NoDefenderExclusionMutation": true,
+    "NoWifiProfileDeletion": true,
+    "NoDnsCacheFlush": true,
+    "NoRecycleBinClear": true,
+    "NoHibernationChange": true,
+    "NoComponentStoreCleanup": true
+  },
+  "UI": {
+    "KeyboardNavigation": true,
+    "ArrowKeys": true,
+    "PageKeys": true,
+    "QBack": true
+  },
+  "Interface": {
+    "SelectionMode": "LocalOrdinalHierarchy",
+    "MainGroupCount": 8,
+    "CheckboxSelection": false,
+    "HierarchyLocalNumbers": true,
+    "CanonicalGroupCodesVisibleInInteractiveMenu": false,
+    "ModuleIdsPreserved": true,
+    "DirectModuleIdFromMainMenu": true,
+    "BackKey": "B",
+    "HelpKey": "H"
+  },
+  "Quality": {
+    "StartupPowerShellParserPreflight": true,
+    "ValidateCommand": true,
+    "AuditCompatRebuiltFromCleanReference": true,
+    "ModuleCountGate": 500,
+    "AuditCompatCountGate": 300,
+    "NativeCountGate": 200,
+    "MainGroupCountGate": 8,
+    "HierarchyMappingGate": 38,
+    "CliUnquotedCommaListSupported": true,
+    "CliQuotedCommaListSupported": true,
+    "PowerShell51GenericObjectListBoundaryRemoved": true,
+    "EngineResultContractHardened": true,
+    "CoreRuntimeContractTest": true,
+    "PowerShell51EmptyArrayCollapseGuard": true,
+    "ResultCardinalityTests": [
+      "null",
+      "empty",
+      "single",
+      "multiple",
+      "failure"
+    ],
+    "UnsafeTypedArrayIfExpressionLint": true,
+    "ProductionGenericListUsageAllowed": false,
+    "AuditCompatArrayListMigration": true,
+    "LiveModuleFailureError": true,
+    "AuditCompatCollectionContractTest": true,
+    "AuditCompatWrapperModule": true,
+    "EngineDirectDispatcherAccess": false,
+    "EngineDirectResultsAccess": false,
+    "AuditCompatModuleScopeContractTest": true,
+    "UnsafeMeasureObjectSumAllowed": false,
+    "PositionalFilteredResultTableAllowed": false,
+    "SafePathProbe": true,
+    "AuditCompatEdgeCaseRuntimeTest": true,
+    "OptionalPropertyGuard": true,
+    "DotNetRegistrySchemaGuard": true,
+    "PropertyContractRuntimeTest": true,
+    "PropertySourceLint": true
+  }
+}

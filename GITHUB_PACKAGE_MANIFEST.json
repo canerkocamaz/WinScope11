@@ -1,0 +1,44 @@
+{
+  "Product": "WinScope 11",
+  "Version": "3.2.8",
+  "PackageType": "GitHub-ready source repository",
+  "Repository": "https://github.com/canerkocamaz/WinScope11",
+  "Modules": 500,
+  "AuditCompatModules": 300,
+  "NativeModules": 200,
+  "MainGroups": 8,
+  "SubGroups": 25,
+  "LeafGroups": 38,
+  "PowerShellSourceFilesPackaged": 519,
+  "RepositoryFilesPackaged": 555,
+  "DocumentationAdded": [
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md",
+    "CONTRIBUTING.md",
+    "CODE_OF_CONDUCT.md",
+    "Docs/INSTALLATION.md",
+    "Docs/USER_GUIDE.md",
+    "Docs/CLI.md",
+    "Docs/MODULES.md",
+    "Docs/REPORTING.md",
+    "Docs/ARCHITECTURE.md",
+    "Docs/DEVELOPMENT.md",
+    "Docs/GITHUB_PUBLISHING.md",
+    "Docs/RELEASE_CHECKLIST.md",
+    "Docs/HELP.md",
+    "Docs/HELP.txt"
+  ],
+  "GitHubMetadataAdded": [
+    ".github/workflows/validate.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/ISSUE_TEMPLATE/config.yml"
+  ],
+  "Notes": [
+    "Generated reports are excluded by .gitignore.",
+    "The generic HELP files intentionally omit machine-specific Host/User lines.",
+    "Full 500-module runtime certification is not claimed by this documentation package."
+  ]
+}
